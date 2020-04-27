@@ -4,14 +4,9 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "iPhone XS Live Wallpapers",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
                     "markdown": "iPhone XS Live Wallpapers for WallpaperLoader",
+                    "useBoldText": true,
                     "useSpacing": true
                 },
                 {
