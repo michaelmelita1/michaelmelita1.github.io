@@ -1,17 +1,26 @@
 <package>
-	<id>com.michaelmelita1.11cammin</id>
-	<name>11CamMin</name>
-	<version>0.0.5</version>
+	<id>com.michaelmelita1.bettercam</id>
+	<name>BetterCam</name>
+	<version>0.0.9-5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.4</miniOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>iPhone 11 Zoom Slider for older phones</shortDescription>
+	<shortDescription>iPhone 11 Camera features for Older iPhones</shortDescription>
 	<screenshots>
 		<screenshot>
 			<image>1.jpeg</image>
-		</screenshot>			
+		</screenshot>	
+		<screenshot>
+			<image>1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<image>1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<image>1.jpeg</image>
+		</screenshot>	
 	</screenshots>
 	<changelog>
 		<change>Compatible with iOS 13.4</change>
