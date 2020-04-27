@@ -1,6 +1,18 @@
 <changelog>
 	<changes>
-		<version>0.0.5</version>
+		<version>0.0.9-5</version>
 		<change>Compatible with iOS 13.4</change>
+		<version>0.0.9</version>
+		<change>Significantly Increased App Loading Speed</change>
+		<version>0.0.8</version>
+		<change>Halfed the codebase</change>
+		<version>0.0.7</version>
+		<change>Fixed Intensity Lighting in Camera App (Not Live)</change>
+		<version>0.0.6</version>
+		<change>Removed unnecessary Code and added Intensity Lighting (broken in camera app)</change>
+		<version>0.0.5</version>
+		<change>Added High Key Mono</change>
+		<version>0.0.4</version>
+		<change>Renamed 11CamMin to BetterCam, Added Depth Control</change>
 	</changes>
 </changelog>
