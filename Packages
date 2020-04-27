@@ -51,7 +51,7 @@ Depends: firmware (>13.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.michaelmelita1.tapticcentre_0.0.9-5_iphoneos-arm.deb
 Size: 2392
-MD5sum: cf39999621edcfaa966e0961de149e9e
+MD5sum: a3fa6bbf2563a673261bef9fb47f2af9
 Description: Taptic Feedback when opening control centre
 Name: Taptic Centre
 Author: Michael Melita
