@@ -38,7 +38,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": " ",
+                    "markdown": "Requires WallpaperLoader by SkittyBlock. Add https://skitty.xyz/repo/ to your package manager of choice",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
