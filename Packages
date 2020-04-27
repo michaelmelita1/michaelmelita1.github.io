@@ -21,7 +21,7 @@ Depends: firmware (>13.4), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.michaelmelita.11cammin_0.0.5_iphoneos-arm.deb
 Size: 2580
-MD5sum: 4ca3bf8967722e188a936e643a79a02
+MD5sum: 511539bfb2917ab74aeb0a50296bddfb
 Description: iPhone 11 Zoom Controls for older phones
 Name: 11CamMin
 Author: Michael Melita
