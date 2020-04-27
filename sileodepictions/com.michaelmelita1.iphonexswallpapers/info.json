@@ -10,10 +10,6 @@
                     "useSpacing": true
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
