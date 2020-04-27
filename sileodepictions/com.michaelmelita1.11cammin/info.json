@@ -4,14 +4,8 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "11CamMin",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "iPhone 11 Camera Zoom Dial for older iPhones",
+                    "markdown": "11CamMin adds the iPhone 11 Camera Zoom Dial to your iPhone's Camera App",
                     "useSpacing": true
                 },
                 {
@@ -30,7 +24,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "11CamMin adds the iPhone 11 Camera Zoom Dial to your iPhone",
+                    "markdown": "Compatible with all iPhones running iOS 13.4 and above",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
