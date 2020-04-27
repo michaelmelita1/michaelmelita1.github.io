@@ -1,94 +1,86 @@
 {
-  "minVersion": "0.1",
-  "headerImage": "Header Image URL",
-  "tintColor": "Tint Color",
-  "tabs": [
-    {
-      "tabname": "Details",
-      "views": [
+    "tabs": [
         {
-          "title": "Package Name",
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 275.41333333333336}",
-          "screenshots": [
-            {
-              "accessibilityText": "Screenshot",
-              "url": "Screenshot URL 1",
-              "fullSizeURL": "Screenshot URL 1"
-            }
-          ],
-          "class": "DepictionScreenshotsView"
-        },
-        {
-          "markdown": "Package Description",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "Latest Version",
-          "class": "DepictionHeaderView"
-        },
-        {
-          "title": "Version",
-          "text": "Latest Version Number",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Released",
-          "text": "Latest Release Date",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Price",
-          "text": "Package Price",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "Package Developer",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Contact Support",
-          "action": "Support URL",
-          "class": "DepictionTableButtonView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "iPhoneXSLiveWallpapers",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "iPhone XS Live Wallpapers for WallpaperLoader",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.iphonexswallpapers/screenshots/Gold.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.iphonexswallpapers/screenshots/Green.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.iphonexswallpapers/screenshots/Orange.jpg"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": " ",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "0.0.2",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "04-27-2020",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Michael Melita",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
         }
-      ],
-      "class": "DepictionStackView"
-    },
-    {
-      "tabname": "Changelog",
-      "views": [
-		{
-          "title": "Version Number",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\n\u2022 Version Changes",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        }
-      ],
-      "class": "DepictionStackView"
-    }
-  ],
-  "class": "DepictionTabView"
+    ],
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.iphonexswallpapers/screenshots/Gold.jpg",
+    "tintColor": "#0657bb"
 }
