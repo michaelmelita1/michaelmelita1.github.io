@@ -28,20 +28,20 @@ Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cammin
 SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
 
-Package: com.michaelmelita1.bettercamprivate
+Package: com.michaelmelita1.bettercam
 Version: 0.0.9-5
 Section: Tweaks
 Maintainer: Michael Melita
 Depends: firmware (>13.4), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.michaelmelita.bettercamprivate_0.0.9-5_iphoneos-arm.deb
-Size: 2580
-MD5sum: 4ca3bf8967722e188a936e643a79a02
+Filename: ./debs/com.michaelmelita.bettercam_0.0.9-5_iphoneos-arm.deb
+Size: 2576
+MD5sum: bdd7219b6ef7d0a79f90a7b837f9cf68
 Description: iPhone 11 Camera features for Dual Camera iPhones
 Name: BetterCam Private
 Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercamprivate
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercamprivate/info.json
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercam
+SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercam/info.json
 
 Package: com.michaelmelita1.tapticcentre
 Version: 0.0.9-5
