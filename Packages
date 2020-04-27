@@ -11,7 +11,7 @@ Description: iPhone XS Wallpapers for WallpaperLoader
 Name: iPhone XS Live Wallpapers
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.iphonexswallpapers
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/?p=com.michaelmelita1.iphonexswallpapers
+SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iphonexswallpapers/info.json
 
 Package: com.michaelmelita1.11cammin
 Version: 0.0.5
@@ -26,7 +26,7 @@ Description: iPhone 11 Zoom Controls for older phones
 Name: 11CamMin
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cammin
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/?p=com.michaelmelita1.11cammin
+SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
 
 Package: com.michaelmelita1.bettercamprivate
 Version: 0.0.9-5
@@ -41,7 +41,7 @@ Description: iPhone 11 Camera features for Dual Camera iPhones
 Name: BetterCam Private
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercamprivate
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/?p=com.michaelmelita1.bettercamprivate
+SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercamprivate/info.json
 
 Package: com.michaelmelita1.tapticcentre
 Version: 0.0.9-5
@@ -56,4 +56,4 @@ Description: Taptic Feedback when openning control centre
 Name: Taptic Centre
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.tapticcentre
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/?p=com.michaelmelita1.tapticcentre
+SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.tapticcentre/info.json
