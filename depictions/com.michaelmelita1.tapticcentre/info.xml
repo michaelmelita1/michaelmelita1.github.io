@@ -1,19 +1,14 @@
 <package>
-	<id>com.michaelmelita1.11cammin</id>
-	<name>11CamMin</name>
-	<version>0.0.5</version>
+	<id>com.michaelmelita1.tapticcentre</id>
+	<name>Taptic Centre</name>
+	<version>0.0.9-5</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.4</miniOS>
+			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>iPhone 11 Zoom Slider for older phones</shortDescription>
-	<screenshots>
-		<screenshot>
-			<image>1.jpeg</image>
-		</screenshot>			
-	</screenshots>
+	<shortDescription>Taptic Feedback when openning control centre</shortDescription>
 	<changelog>
-		<change>Compatible with iOS 13.4</change>
+		<change>Significantly Increased App Loading Speed</change>
 	</changelog>
 </package>
