@@ -36,7 +36,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with iPhone X running iOS 13.0 and above! Please dont install this on anything else. Nothing bad will happen but also nothing good \r\n\r\nWARNING: This Package replaces system files! Everything is backed up and files are restored during when uninstalling the tweak. However, I dont take responsibility for this package damaging your iPhone should anything go wrong",
+                    "markdown": "Compatible with iPhone X running iOS 13.0 and above! DO NOT install this on anything else. \r\n\r\nWARNING: This Package replaces system files! Everything is backed up and files are restored during when uninstalling the tweak. However, I dont take responsibility for this package damaging your iPhone should anything go wrong",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
