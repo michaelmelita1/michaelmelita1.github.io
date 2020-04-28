@@ -5,7 +5,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "11CamMin adds the iPhone 11 Camera Zoom Dial to your iPhone's Camera App",
+                    "markdown": "All of Apples Wallpapers, All in one place!",
                     "useSpacing": true
                 },
                 {
@@ -13,14 +13,26 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cammin/screenshots/1.jpeg"
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/1.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/2.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/3.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/4.PNG"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with all iPhones running iOS 13.4 and above",
+                    "markdown": "Compatible with iPhone X running iOS 13.0 and above! \r\n\r\nWARNING: This Package replaces system files! Nothing bad will happen because of this, and files are restored when uninstalled. However, I dont take responsibility for this package damaging your iPhone",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -30,12 +42,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.5",
+                    "text": "0.0.1",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "04-27-2020",
+                    "text": "04-28-2020",
                     "class": "DepictionTableTextView",
                     "title": "Released"
                 },
@@ -63,6 +75,6 @@
     ],
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cammin/screenshots/Banner.png",
+    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/Banner.png",
     "tintColor": "#0657bb"
 }
