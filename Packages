@@ -66,7 +66,7 @@ Depends: firmware (>13.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.michaelmelita1.stockx_0.0.1_iphoneos-arm.deb
 Size: 236220012
-MD5sum: a3fa6bbf2563a673261bef9fb47f2af9
+MD5sum: fdaeea6d097528f314209613badad786
 Description: All of Apple's Wallpapers, all in one place
 Name: Stock X
 Author: Michael Melita
