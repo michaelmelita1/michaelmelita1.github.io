@@ -20,7 +20,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with all iPhones running iOS 13.4 and above",
+                    "markdown": "Compatible with all iPhones running iOS 13.0 to 13.3.1",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -30,7 +30,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.5",
+                    "text": "0.0.4",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
