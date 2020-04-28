@@ -58,17 +58,32 @@ Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.tapticcentre
 SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.tapticcentre/info.json
 
-Package: com.michaelmelita1.stock
+Package: com.michaelmelita1.stockx
 Version: 0.0.1
 Section: Tweaks
 Maintainer: Michael Melita
-Depends: firmware (>13.0), mobilesubstrate
+Depends: firmware (>13.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.michaelmelita1.stock_0.0.1_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.stockx_0.0.1_iphoneos-arm.deb
 Size: 2392
 MD5sum: a3fa6bbf2563a673261bef9fb47f2af9
 Description: All of Apple's Wallpapers, all in one place
 Name: Stock X
 Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.stock
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stock/info.json
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.stockx
+SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info.json
+
+Package: com.michaelmelita1.stockse
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Michael Melita
+Depends: firmware (>13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.michaelmelita1.stockse_0.0.1_iphoneos-arm.deb
+Size: 2392
+MD5sum: a3fa6bbf2563a673261bef9fb47f2af9
+Description: All of Apple's Wallpapers, all in one place
+Name: Stock SE
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.stockse
+SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockse/info.json
