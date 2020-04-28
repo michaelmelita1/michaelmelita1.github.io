@@ -4,18 +4,12 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "TapticCentre",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
                     "markdown": "Taptic Feedback when opening Control Centre",
                     "useSpacing": true
                 },
                 {
-                    "markdown": " Compatible with iPhone 6S - X",
+                    "markdown": " Compatible with iPhone 6S - X running iOS 13",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
