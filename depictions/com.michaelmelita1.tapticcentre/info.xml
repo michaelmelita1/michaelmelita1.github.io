@@ -8,6 +8,9 @@
 		</firmware>
 	</compatibility>
 	<shortDescription>Taptic Feedback when openning control centre</shortDescription>
+	<descriptionlist>
+		<description>Taptic Feedback when openning control centre</description>		
+	</descriptionlist>
 	<changelog>
 		<change>Significantly Increased App Loading Speed</change>
 	</changelog>
