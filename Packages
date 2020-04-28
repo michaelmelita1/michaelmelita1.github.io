@@ -1,75 +1,86 @@
-Package: com.michaelmelita1.iphonexswallpapers
-Version: 0.0.2
-Section: Tweaks
-Maintainer: Michael Melita
-Depends: firmware (>13.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.michaelmelita.iphonexswallpapers_0.0.2_iphoneos-arm.deb
-Size: 18387416
-MD5sum: a8fec372c9c00ae4944a4a25e8b88fe5
-Description: iPhone XS Wallpapers for WallpaperLoader
-Name: iPhone XS Live Wallpapers
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.iphonexswallpapers
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iphonexswallpapers/info.json
-
-Package: com.michaelmelita1.11cammin
+Package: com.michaelmelita.11cammin
 Version: 0.0.5
-Section: Tweaks
-Maintainer: Michael Melita
-Depends: firmware (>13.4), mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.4)
 Filename: ./debs/com.michaelmelita.11cammin_0.0.5_iphoneos-arm.deb
-Size: 2580
+Size: 2740
 MD5sum: 511539bfb2917ab74aeb0a50296bddfb
-Description: iPhone 11 Zoom Controls for older phones
-Name: 11CamMin
+SHA1: 6687f999ecab1e0ec3013ddcc3be97b0daab03d8
+SHA256: b8edb1ce7165114681eebb0bfdc299ec0760e32d9b80ce3cef15c084bb0ee4a3
+Section: Tweaks
+Description: iPhone 11 Camera Zoom Dial for iOS 13
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cammin
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
+Name: 11CamMin
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
 
-Package: com.michaelmelita1.bettercam
+Package: com.michaelmelita.bettercam
 Version: 0.0.9-5
-Section: Tweaks
-Maintainer: Michael Melita
-Depends: firmware (>13.4), mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.4)
 Filename: ./debs/com.michaelmelita.bettercam_0.0.9-5_iphoneos-arm.deb
 Size: 2576
 MD5sum: bdd7219b6ef7d0a79f90a7b837f9cf68
-Description: iPhone 11 Camera features for Dual Camera iPhones
-Name: BetterCam Private
+SHA1: 84cc0c60fe412d05283ed95eab6ee0f4a47d2968
+SHA256: 875282490e7cfad4c721f6fbb35e24e1ff3c8c6baa31a3b27c4aa1392f5b516a
+Section: Tweaks
+Description: iPhone 11 Camera features for Dual Camera Devices
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercam
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercam/info.json
+Name: BetterCam
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercam/info.json
+
+Package: com.michaelmelita.iphonexswallpapers
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.michaelmelita.iphonexswallpapers_0.0.2_iphoneos-arm.deb
+Size: 18387524
+MD5sum: a8fec372c9c00ae4944a4a25e8b88fe5
+SHA1: 7a53b1536ca0af933fe186795ec93b2dc03e7c0f
+SHA256: 07ef2da64da2d173d5127f77dbedd7506007ad3a78851e0d22fc7ef4a1726e36
+Section: Tweaks
+Description: iPhone XS Wallpapers
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.iphonexswallpapers
+Name: iPhone XS Wallpapers
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iphonexswallpapers/info.json
+
+Package: com.michaelmelita.stockx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Depends: firmware (>= 13.0)
+Filename: https://github.com/michaelmelita1/michaelmelita1.github.io/raw/master/debs/com.michaelmelita.stockx_0.0.1_iphoneos-arm.deb
+Size: 236220012
+MD5sum: fdaeea6d097528f314209613badad786
+SHA1: 34586c9bfa9ae522a5a9dfcf125281571f3b0954
+SHA256: 1d7800a2ed2144507396b4a1812fc04f15ceeff756ba587c5e9c19a5bb262a47
+Section: Tweaks
+Description: All Apple Wallpapers, All in One Place
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.stockx
+Name: StockX
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info.json
 
 Package: com.michaelmelita1.tapticcentre
 Version: 0.0.9-5
-Section: Tweaks
-Maintainer: Michael Melita
-Depends: firmware (>13.0), mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Depends: mobilesubstrate
 Filename: ./debs/com.michaelmelita1.tapticcentre_0.0.9-5_iphoneos-arm.deb
-Size: 2392
+Size: 2400
 MD5sum: a3fa6bbf2563a673261bef9fb47f2af9
-Description: Taptic Feedback when opening control centre
-Name: Taptic Centre
+SHA1: 92259e583644ad50258ae6a0514dcd1d9e051f63
+SHA256: e38616f07047e0d21d3d4a6a2a1f798cf86f4527e50cfda6e2de6386e027cf13
+Section: Tweaks
+Description: Taptic Feedback when opening Control Centre
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.tapticcentre
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.tapticcentre/info.json
-
-Package: com.michaelmelita1.stockx
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Michael Melita
-Depends: firmware (>13.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.michaelmelita1.stockx_0.0.1_iphoneos-arm.deb
-Size: 236220012
-MD5sum: fdaeea6d097528f314209613badad786
-Description: All of Apple's Wallpapers, all in one place
-Name: Stock X
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.stockx
-SileoDepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info.json
-
+Name: Taptic Centre
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.tapticcentre/info.json
