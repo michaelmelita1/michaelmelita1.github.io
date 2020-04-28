@@ -11,6 +11,10 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<shortDescription>iPhone XS Live Wallpapers for WallpaperLoader</shortDescription>
+	<descriptionlist>
+		<description>iPhone XS Live Wallpapers for WallpaperLoader</description>
+		<description>Requires WallpaperLoader by SkittyBlock. Add https://skitty.xyz/repo/ to your package manager of choice</description>			
+	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<image>Gold.jpg</image>
