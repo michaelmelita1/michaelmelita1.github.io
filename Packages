@@ -64,7 +64,7 @@ Section: Tweaks
 Maintainer: Michael Melita
 Depends: firmware (>13.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.michaelmelita1.stockx_0.0.1_iphoneos-arm.deb
+Filename: https://drive.google.com/uc?export=download&confirm=ERUe&id=1dH8koFAa3zXrHwi-JMJCcdV4uFLICXTX
 Size: 2392
 MD5sum: a3fa6bbf2563a673261bef9fb47f2af9
 Description: All of Apple's Wallpapers, all in one place
