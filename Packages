@@ -16,6 +16,24 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11c
 Name: 11CamMin
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
 
+Package: com.michaelmelita.11camminleg
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.michaelmelita.11camminleg_0.0.4_iphoneos-arm.deb
+Size: 2740
+MD5sum: 511539bfb2917ab74aeb0a50296bddfb
+SHA1: 6687f999ecab1e0ec3013ddcc3be97b0daab03d8
+SHA256: b8edb1ce7165114681eebb0bfdc299ec0760e32d9b80ce3cef15c084bb0ee4a3
+Section: Tweaks
+Description: iPhone 11 Camera Zoom Dial for iOS 13
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11camminleg
+Name: 11CamMin Legacy
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11camminleg/info.json
+
 Package: com.michaelmelita.bettercam
 Version: 0.0.9-5
 Architecture: iphoneos-arm
