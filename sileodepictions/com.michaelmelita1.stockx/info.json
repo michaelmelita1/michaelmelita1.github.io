@@ -27,6 +27,10 @@
                             "accessibilityText": "Screenshot3",
                             "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/4.PNG"
                         }
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/5.PNG"
+                        }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
                     "itemCornerRadius": 6
