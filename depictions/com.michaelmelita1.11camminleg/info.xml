@@ -1,10 +1,10 @@
 <package>
-	<id>com.michaelmelita1.11cammin</id>
-	<name>11CamMin</name>
-	<version>0.0.5</version>
+	<id>com.michaelmelita1.11camminleg</id>
+	<name>11CamMin LEgacy</name>
+	<version>0.0.4</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.4</miniOS>
+			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
 	<shortDescription>iPhone 11 Zoom Slider for older phones</shortDescription>
@@ -14,6 +14,6 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>Compatible with iOS 13.4</change>
+		<change>Compatible with iOS 13.0</change>
 	</changelog>
 </package>
