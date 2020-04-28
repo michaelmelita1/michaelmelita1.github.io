@@ -55,12 +55,12 @@ Package: com.michaelmelita.stockx
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita.stockx1, firmware (>= 13.0)
-Filename: https://github.com/michaelmelita1/michaelmelita1.github.io/raw/master/debs/com.michaelmelita.stockx_0.0.1_iphoneos-arm.deb
-Size: 236220012
-MD5sum: fdaeea6d097528f314209613badad786
-SHA1: 34586c9bfa9ae522a5a9dfcf125281571f3b0954
-SHA256: 1d7800a2ed2144507396b4a1812fc04f15ceeff756ba587c5e9c19a5bb262a47
+Depends: com.michaelmelita.stockx1,  com.michaelmelita.stockx2, firmware (>= 13.0)
+Filename: ./debs/com.michaelmelita.stockx_0.0.1_iphoneos-arm.deb
+Size: 68393448
+MD5sum: 49ee1e7232527bf84e44c29a5929bcee
+SHA1: 6df64785e8459871aba6b4f8bd9ce5cf267be695
+SHA256: 34b1bdddc7306273bb7737fa9087169f7108ecacdf3295a057b7202a2a179b9c
 Section: Tweaks
 Description: All Apple Wallpapers, All in One Place
 Author: Michael Melita
@@ -73,16 +73,16 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: firmware (>= 13.0)
-Filename: /debs/com.michaelmelita.stockx1_0.0.1_iphoneos-arm.deb
-Size: 236220012
-MD5sum: fdaeea6d097528f314209613badad786
-SHA1: 34586c9bfa9ae522a5a9dfcf125281571f3b0954
-SHA256: 1d7800a2ed2144507396b4a1812fc04f15ceeff756ba587c5e9c19a5bb262a47
+Filename: ./debs/com.michaelmelita.stockx1_0.0.1_iphoneos-arm.deb
+Size: 91086948
+MD5sum: 87761bfa3b3e8c8af4c7a70e7c5325a9
+SHA1: e10d7fc60f4c27fbacb651b4d8d711fe22c04a35
+SHA256: 06625eb551aae81bdeb115b87498ed723b7d008ee8800d9ed7b29020eaa10ff5
 Section: Tweaks
 Description: Support Pack 1 for StockX
 Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.stockx
-Name: StockX
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.stockx1
+Name: StockX Support Pack 1
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info1.json
 
 Package: com.michaelmelita.stockx2
@@ -90,16 +90,16 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: firmware (>= 13.0)
-Filename: /debs/com.michaelmelita.stockx2_0.0.1_iphoneos-arm.deb
-Size: 236220012
-MD5sum: fdaeea6d097528f314209613badad786
-SHA1: 34586c9bfa9ae522a5a9dfcf125281571f3b0954
-SHA256: 1d7800a2ed2144507396b4a1812fc04f15ceeff756ba587c5e9c19a5bb262a47
+Filename: ./debs/com.michaelmelita.stockx2_0.0.1_iphoneos-arm.deb
+Size: 76734136
+MD5sum: 4315ef6fb1b167eda7849aebc5e25c31
+SHA1: b2e0f62338cdfabbfb3797a8a09f28c9eb78dcfa
+SHA256: 361f4c3f35178f4470a524b137b2efe13c06e8a2cb09839045077dea7d117620
 Section: Tweaks
 Description: Support Pack 2 for StockX
 Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.stockx
-Name: StockX
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.stockx2
+Name: StockX Support Pack 2
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info2.json
 
 Package: com.michaelmelita1.tapticcentre
@@ -118,3 +118,4 @@ Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.tapticcentre
 Name: Taptic Centre
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.tapticcentre/info.json
+
