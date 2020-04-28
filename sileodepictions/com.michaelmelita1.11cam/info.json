@@ -20,7 +20,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with iPhone X, XS and XR running iOS 13.4 and above",
+                    "markdown": "Compatible with iPhone X, XS and XR running iOS 13.4 and above. This is a beta tweak, and things are expected to be broken",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
