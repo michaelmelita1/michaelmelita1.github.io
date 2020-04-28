@@ -1,6 +1,6 @@
 <package>
 	<id>com.michaelmelita1.11camminleg</id>
-	<name>11CamMin LEgacy</name>
+	<name>11CamMin Legacy</name>
 	<version>0.0.4</version>
 	<compatibility>
 		<firmware>
@@ -8,6 +8,10 @@
 		</firmware>
 	</compatibility>
 	<shortDescription>iPhone 11 Zoom Slider for older phones</shortDescription>
+	<descriptionlist>
+		<description>11CamMin adds the iPhone 11 Zoom Slider to your iPhone</description>
+		<description>Compatible with all iPhones running iOS 13.0 to iOS 13.3.1</description>		
+	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<image>1.jpeg</image>
