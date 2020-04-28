@@ -5,7 +5,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "11CamMin adds the iPhone 11 Camera Zoom Dial to your iPhone's Camera App",
+                    "markdown": "11Cam adds the iPhone 11 Camera App to your iPhone",
                     "useSpacing": true
                 },
                 {
@@ -13,14 +13,14 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cammin/screenshots/1.jpeg"
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam/screenshots/1.jpeg"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with all iPhones running iOS 13.4 and above",
+                    "markdown": "Compatible with iPhone X, XS and XR running iOS 13.4 and above",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -30,7 +30,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.5",
+                    "text": "0.0.4",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -63,6 +63,6 @@
     ],
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cammin/screenshots/Banner.png",
+    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam/screenshots/Banner.png",
     "tintColor": "#0657bb"
 }
