@@ -7,9 +7,9 @@
 			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>Taptic Feedback when openning control centre</shortDescription>
+	<shortDescription>Taptic Feedback when opening control centre</shortDescription>
 	<descriptionlist>
-		<description>Taptic Feedback when openning control centre</description>		
+		<description>Taptic Feedback when opening control centre</description>		
 	</descriptionlist>
 	<changelog>
 		<change>Significantly Increased App Loading Speed</change>
