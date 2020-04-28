@@ -1,28 +1,28 @@
 <package>
-	<id>com.michaelmelita1.iphonexswallpapers</id>
-	<name>iPhone XS Wallpapers</name>
-	<version>0.0.2</version>
+	<id>com.michaelmelita1.stockx</id>
+	<name>StockX</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
-	<shortDescription>iPhone XS Live Wallpapers for WallpaperLoader</shortDescription>
+	<shortDescription>All Apple Wallpapers, all in one place</shortDescription>
 	<screenshots>
 		<screenshot>
-			<image>Gold.jpg</image>
+			<image>1.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<image>Green.jpg</image>
+			<image>2.jpg</image>
 		</screenshot>	
 	        <screenshot>
-			<image>Orange.jpg</image>
-		</screenshot>	
+			<image>3.jpg</image>
+		</screenshot>
+		 <screenshot>
+			<image>4.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixes not showing up in Wallpapers</change>
+		<change>Initial Release</change>
 	</changelog>
 </package>
