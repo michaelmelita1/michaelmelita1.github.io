@@ -9,7 +9,7 @@
 	</changes>
 	<changes>
 		<version>0.0.8</version>
-		<change>Halfed the codebase</change>
+		<change>Halved the codebase</change>
 </changes>
 	<changes>
 		<version>0.0.7</version>
@@ -25,6 +25,6 @@
 </changes>
 	<changes>
 		<version>0.0.4</version>
-		<change>Renamed 11CamMin to BetterCam, Added Depth Control</change>
+		<change>Merged changes from 11CamMin to BetterCam, Added Depth Control</change>
 	</changes>
 </changelog>
