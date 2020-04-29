@@ -1,10 +1,10 @@
-Package: com.michaelmelita.11cam
+Package: com.michaelmelita1.11cam
 Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 13.4)
-Filename: ./debs/com.michaelmelita.11cam_0.0.4_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.11cam_0.0.4_iphoneos-arm.deb
 Size: 2740
 MD5sum: 511539bfb2917ab74aeb0a50296bddfb
 SHA1: 6687f999ecab1e0ec3013ddcc3be97b0daab03d8
@@ -16,13 +16,13 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11c
 Name: 11CamMin
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
 
-Package: com.michaelmelita.11cammin
+Package: com.michaelmelita1.11cammin
 Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 13.4)
-Filename: ./debs/com.michaelmelita.11cammin_0.0.5_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.11cammin_0.0.5_iphoneos-arm.deb
 Size: 2740
 MD5sum: 511539bfb2917ab74aeb0a50296bddfb
 SHA1: 6687f999ecab1e0ec3013ddcc3be97b0daab03d8
@@ -34,13 +34,13 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11c
 Name: 11CamMin
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
 
-Package: com.michaelmelita.11camminleg
+Package: com.michaelmelita1.11camminleg
 Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.michaelmelita.11camminleg_0.0.4_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.11camminleg_0.0.4_iphoneos-arm.deb
 Size: 2740
 MD5sum: 511539bfb2917ab74aeb0a50296bddfb
 SHA1: 6687f999ecab1e0ec3013ddcc3be97b0daab03d8
@@ -52,13 +52,13 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11c
 Name: 11CamMin Legacy
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11camminleg/info.json
 
-Package: com.michaelmelita.bettercam
+Package: com.michaelmelita1.bettercam
 Version: 0.0.9-5
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 13.4)
-Filename: ./debs/com.michaelmelita.bettercam_0.0.9-5_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.bettercam_0.0.9-5_iphoneos-arm.deb
 Size: 2576
 MD5sum: bdd7219b6ef7d0a79f90a7b837f9cf68
 SHA1: 84cc0c60fe412d05283ed95eab6ee0f4a47d2968
@@ -70,12 +70,12 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bet
 Name: BetterCam
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercam/info.json
 
-Package: com.michaelmelita.iphonexswallpapers
+Package: com.michaelmelita1.iphonexswallpapers
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.michaelmelita.iphonexswallpapers_0.0.2_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.iphonexswallpapers_0.0.2_iphoneos-arm.deb
 Size: 18387524
 MD5sum: a8fec372c9c00ae4944a4a25e8b88fe5
 SHA1: 7a53b1536ca0af933fe186795ec93b2dc03e7c0f
@@ -87,12 +87,12 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.iph
 Name: iPhone XS Wallpapers
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iphonexswallpapers/info.json
 
-Package: com.michaelmelita.stockx
+Package: com.michaelmelita1.stockx
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: com.michaelmelita.stockx1,  com.michaelmelita.stockx2, firmware (>= 13.0)
-Filename: ./debs/com.michaelmelita.stockx_0.0.1_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.stockx_0.0.1_iphoneos-arm.deb
 Size: 68393448
 MD5sum: 49ee1e7232527bf84e44c29a5929bcee
 SHA1: 6df64785e8459871aba6b4f8bd9ce5cf267be695
@@ -104,12 +104,12 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.sto
 Name: StockX
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info.json
 
-Package: com.michaelmelita.stockx1
+Package: com.michaelmelita1.stockx1
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: firmware (>= 13.0)
-Filename: ./debs/com.michaelmelita.stockx1_0.0.1_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.stockx1_0.0.1_iphoneos-arm.deb
 Size: 91086948
 MD5sum: 87761bfa3b3e8c8af4c7a70e7c5325a9
 SHA1: e10d7fc60f4c27fbacb651b4d8d711fe22c04a35
@@ -121,12 +121,12 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.sto
 Name: StockX Support Pack 1
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info1.json
 
-Package: com.michaelmelita.stockx2
+Package: com.michaelmelita1.stockx2
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: firmware (>= 13.0)
-Filename: ./debs/com.michaelmelita.stockx2_0.0.1_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.stockx2_0.0.1_iphoneos-arm.deb
 Size: 76734136
 MD5sum: 4315ef6fb1b167eda7849aebc5e25c31
 SHA1: b2e0f62338cdfabbfb3797a8a09f28c9eb78dcfa
