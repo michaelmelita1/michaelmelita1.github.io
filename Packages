@@ -3,18 +3,18 @@ Version: 0.0.4-1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13.4)
+Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iPhone (>= 10)
 Filename: ./debs/com.michaelmelita1.11cam_0.0.4-1_iphoneos-arm.deb
-Size: 2740
-MD5sum: 511539bfb2917ab74aeb0a50296bddfb
-SHA1: 6687f999ecab1e0ec3013ddcc3be97b0daab03d8
-SHA256: b8edb1ce7165114681eebb0bfdc299ec0760e32d9b80ce3cef15c084bb0ee4a3
+Size: 3548
+MD5sum: 1891d54705e20e0ba5e501c423f32046
+SHA1: 67f37302b8561b200377d3a150c5967536ac51d3
+SHA256: 9cf327e624ae872532545225462b929e03bc0208197c6af870e36ffc78931ef9
 Section: Tweaks
-Description: iPhone 11 Camera App for iOS 13.3
+Description: iPhone 11 Cam for iOS 13
 Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cammin
-Name: 11CamMin
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam
+Name: 11Cam Beta
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam/info.json
 
 Package: com.michaelmelita1.11cammin
 Version: 0.0.5-1
@@ -23,10 +23,10 @@ Maintainer: Michael Melita
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 13.4)
 Filename: ./debs/com.michaelmelita1.11cammin_0.0.5-1_iphoneos-arm.deb
-Size: 2740
-MD5sum: 511539bfb2917ab74aeb0a50296bddfb
-SHA1: 6687f999ecab1e0ec3013ddcc3be97b0daab03d8
-SHA256: b8edb1ce7165114681eebb0bfdc299ec0760e32d9b80ce3cef15c084bb0ee4a3
+Size: 2736
+MD5sum: 270393cac7b9aa1b4773e5ddf43a2842
+SHA1: 31d9886cc37edff8d3147a69aaf32ed6844e552c
+SHA256: 918974f58a1b2dec5b0ed7cfeca4fb757179fb0f953835be43b46ad51b48d3d9
 Section: Tweaks
 Description: iPhone 11 Camera Zoom Dial for iOS 13
 Author: Michael Melita
@@ -41,10 +41,10 @@ Maintainer: Michael Melita
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.michaelmelita1.11camminleg_0.0.4-1_iphoneos-arm.deb
-Size: 2740
-MD5sum: 511539bfb2917ab74aeb0a50296bddfb
-SHA1: 6687f999ecab1e0ec3013ddcc3be97b0daab03d8
-SHA256: b8edb1ce7165114681eebb0bfdc299ec0760e32d9b80ce3cef15c084bb0ee4a3
+Size: 2752
+MD5sum: 921cce662860dcaf5054ea493d31ec22
+SHA1: baa30def44be825eeeedb1bf81e39316951484dd
+SHA256: 3e3c7cc617290cba3e08de2eeac42a469f28361653ec9dcc4b7c79d5a58d2f82
 Section: Tweaks
 Description: iPhone 11 Camera Zoom Dial for iOS 13
 Author: Michael Melita
@@ -59,10 +59,10 @@ Maintainer: Michael Melita
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 13.4)
 Filename: ./debs/com.michaelmelita1.bettercam_0.0.9-6_iphoneos-arm.deb
-Size: 2576
-MD5sum: bdd7219b6ef7d0a79f90a7b837f9cf68
-SHA1: 84cc0c60fe412d05283ed95eab6ee0f4a47d2968
-SHA256: 875282490e7cfad4c721f6fbb35e24e1ff3c8c6baa31a3b27c4aa1392f5b516a
+Size: 2568
+MD5sum: 6bd5a44f59c875cd0adb3ca8993b87ec
+SHA1: 2fbcf325e219fd3722f08be712b639be0c4aef80
+SHA256: 97b046a3586503b3f2122f0cfdb5d0ef2aa2588ac2a940e45f641740c59acffe
 Section: Tweaks
 Description: iPhone 11 Camera features for Dual Camera Devices
 Author: Michael Melita
@@ -76,10 +76,10 @@ Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.michaelmelita1.iphonexswallpapers_0.0.2-1_iphoneos-arm.deb
-Size: 18387524
-MD5sum: a8fec372c9c00ae4944a4a25e8b88fe5
-SHA1: 7a53b1536ca0af933fe186795ec93b2dc03e7c0f
-SHA256: 07ef2da64da2d173d5127f77dbedd7506007ad3a78851e0d22fc7ef4a1726e36
+Size: 18387436
+MD5sum: d0851c0d20393e420c2b23c68af27e6b
+SHA1: 536848d276dbe5d118ce48688fe4fb39daab6ffe
+SHA256: 4bc2ef7c3d904979f2ce0c7a6de9b44c4f337642a0c1ff4430dcf00381620173
 Section: Tweaks
 Description: iPhone XS Wallpapers
 Author: Michael Melita
@@ -91,12 +91,12 @@ Package: com.michaelmelita1.stockx0
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita.stockx1, com.michaelmelita.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita.stockx1,  com.michaelmelita.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
 Filename: ./debs/com.michaelmelita1.stockx0_0.0.2_iphoneos-arm.deb
-Size: 68393448
-MD5sum: 49ee1e7232527bf84e44c29a5929bcee
-SHA1: 6df64785e8459871aba6b4f8bd9ce5cf267be695
-SHA256: 34b1bdddc7306273bb7737fa9087169f7108ecacdf3295a057b7202a2a179b9c
+Size: 68393460
+MD5sum: 5c987dea3a0745cfb1cafd3640cd2559
+SHA1: 3374ffe36d645a8361876dc2c2f89ccb1ea7082a
+SHA256: 7f3edbb2f68121471d84e7c3de4976e2dd6637c07e1bbffb93777bb2da857dfc
 Section: Tweaks
 Description: All Apple Wallpapers, All in One Place
 Author: Michael Melita
@@ -105,15 +105,15 @@ Name: StockX
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info.json
 
 Package: com.michaelmelita1.stockx1
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: com.michaelmelita.stockx0, com.michaelmelita.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
 Filename: ./debs/com.michaelmelita1.stockx1_0.0.2_iphoneos-arm.deb
-Size: 91086948
-MD5sum: 87761bfa3b3e8c8af4c7a70e7c5325a9
-SHA1: e10d7fc60f4c27fbacb651b4d8d711fe22c04a35
-SHA256: 06625eb551aae81bdeb115b87498ed723b7d008ee8800d9ed7b29020eaa10ff5
+Size: 91086960
+MD5sum: 80a3fee8eefc9d6474d85114986c06c9
+SHA1: 590771ea24fd42debe01f302b126a55910e644c7
+SHA256: cf68321a00e1ceb875cd7795674f0420a0f5e8f31df6cfb57b8a5382bb2ad9bd
 Section: Tweaks
 Description: Support Pack 1 for StockX
 Author: Michael Melita
@@ -127,10 +127,10 @@ Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: com.michaelmelita.stockx0, com.michaelmelita.stockx1, firmware (>= 13.0), cy+iphone (>= 10)
 Filename: ./debs/com.michaelmelita1.stockx2_0.0.2_iphoneos-arm.deb
-Size: 76734136
-MD5sum: 4315ef6fb1b167eda7849aebc5e25c31
-SHA1: b2e0f62338cdfabbfb3797a8a09f28c9eb78dcfa
-SHA256: 361f4c3f35178f4470a524b137b2efe13c06e8a2cb09839045077dea7d117620
+Size: 76734148
+MD5sum: 31e266078a56412184d80a4797157ad2
+SHA1: 10dc1b98faa42f109dc9f2aed60b69637e2ed8db
+SHA256: 749b8c63ee79ff30be6944c1729df2a31935798b4de037ce104eec8799ab4029
 Section: Tweaks
 Description: Support Pack 2 for StockX
 Author: Michael Melita
