@@ -71,7 +71,90 @@
                 }
             ],
             "tabname": "Details"
-        }
+        },
+        {
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "0.0.9-5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Compatible with iOS 13.4",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"title": "0.0.9",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Significantly Increased App Loading Speed",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"title": "0.0.8",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Halved the Codebase",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"title": "0.0.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fixed Intensity Lighting in Camera App (Not Live)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"title": "0.0.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Removed unnecessary Code and added Intensity Lighting (broken in camera app)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"title": "0.0.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added High Key Mono",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"title": "0.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Merged changes from 11CamMin to BetterCam, Added Depth Control",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
     ],
     "minVersion": "0.1",
     "class": "DepictionTabView",
