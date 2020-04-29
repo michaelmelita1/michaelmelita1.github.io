@@ -3,12 +3,12 @@ Version: 0.0.4-1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iPhone (>= 10)
+Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iPhone (>> 9)
 Filename: ./debs/com.michaelmelita1.11cam_0.0.4-1_iphoneos-arm.deb
 Size: 3548
-MD5sum: 1891d54705e20e0ba5e501c423f32046
-SHA1: 67f37302b8561b200377d3a150c5967536ac51d3
-SHA256: 9cf327e624ae872532545225462b929e03bc0208197c6af870e36ffc78931ef9
+MD5sum: bfddc4510e01f7c4ff12113dd2cf1489
+SHA1: 1903fdd21b7e06e39f41a52f401c14a72144f599
+SHA256: 06863e2ac8b478a146b97400956e1997939767d7e2c7a1bd691951e06b41ea13
 Section: Tweaks
 Description: iPhone 11 Cam for iOS 13
 Author: Michael Melita
@@ -91,7 +91,7 @@ Package: com.michaelmelita1.stockx0
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita1.stockx1,  com.michaelmelita1.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita.stockx1,  com.michaelmelita.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
 Filename: ./debs/com.michaelmelita1.stockx0_0.0.2_iphoneos-arm.deb
 Size: 68393460
 MD5sum: 5c987dea3a0745cfb1cafd3640cd2559
@@ -108,7 +108,7 @@ Package: com.michaelmelita1.stockx1
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita1.stockx0, com.michaelmelita1.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita.stockx0, com.michaelmelita.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
 Filename: ./debs/com.michaelmelita1.stockx1_0.0.2_iphoneos-arm.deb
 Size: 91086960
 MD5sum: 80a3fee8eefc9d6474d85114986c06c9
@@ -125,7 +125,7 @@ Package: com.michaelmelita1.stockx2
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita1.stockx0, com.michaelmelita1.stockx1, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita.stockx0, com.michaelmelita.stockx1, firmware (>= 13.0), cy+iphone (>= 10)
 Filename: ./debs/com.michaelmelita1.stockx2_0.0.2_iphoneos-arm.deb
 Size: 76734148
 MD5sum: 31e266078a56412184d80a4797157ad2
