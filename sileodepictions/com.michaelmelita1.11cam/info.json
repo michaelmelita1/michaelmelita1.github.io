@@ -78,7 +78,7 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
-                {
+                                {
 					"title": "0.0.4",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -86,6 +86,17 @@
 				},
 				{
 					"markdown": "\t\n\u2022 Adds Compatibility with iOS 13.4",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "0.0.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Merged changes from BetterCam to 11Cam, Added iPhone 11 Camera App interface",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
