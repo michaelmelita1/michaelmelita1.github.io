@@ -1,4 +1,8 @@
 <changelog>
+		<changes>
+		<version>0.0.2</version>
+		<change>Fixes Dependancies</change>
+	</changes>
 	<changes>
 		<version>0.0.1</version>
 		<change>Initial Release</change>
