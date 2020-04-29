@@ -1,5 +1,9 @@
 <changelog>
-		<changes>
+	<changes>
+		<version>0.0.3</version>
+		<change>Fixed All wallpapers not showing up on XS and 11Pro</change>
+	</changes>
+	<changes>
 		<version>0.0.2</version>
 		<change>Fixes Dependancies</change>
 	</changes>
