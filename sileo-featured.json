@@ -1,1 +1,6 @@
-{"banners":[{"package":"com.michaelmelita1.bettercam","title":"BetterCam","url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.bettercam/screenshots/Banner.png","hideShadow":false},{"package":"com.michaelmelita1.stockx","title":"StockX","url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/Banner1.png","hideShadow":false}],"class":"FeaturedBannersView","itemCornerRadius":10,"itemSize":"{263, 148}"}
+
+{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":10,"banners":[{"url":"https://repo-cdn.dynastic.co/91373858589769729.97ea6548c456372ba1ba0e6640e7e73f-750?size=750","title":"ShortLook","package":"co.dynastic.ios.tweak.shortlook","hideShadow":false},{"url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/Banner1.png","title":"StockX","package":"com.michaelmelita1.stockx","hideShadow":false}]}
+
+
+
+{"banners":[{"package":"com.michaelmelita1.bettercam","title":"BetterCam","url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.bettercam/screenshots/Banner.png","hideShadow":false},{"package":"com.michaelmelita1.stockx","title":"StockX","url":"",
