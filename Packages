@@ -88,15 +88,15 @@ Name: iPhone XS Wallpapers
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iphonexswallpapers/info.json
 
 Package: com.michaelmelita1.stockx0
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: com.michaelmelita1.stockx1,  com.michaelmelita1.stockx2, firmware (>= 13.0), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6) | cy+model.iphone (= 11.2) | cy+model.iphone (= 12.1)
-Filename: ./debs/com.michaelmelita1.stockx0_0.0.3_iphoneos-arm.deb
-Size: 90646420
-MD5sum: 55752a9e781a753383242c91ce9a368d
-SHA1: 92d326303705a0fd737c10486466c64b398616bd
-SHA256: 8d645b71bcafd1d9252d686fc6a03965f2e2157f88df017c7b323438380d1f05
+Filename: ./debs/com.michaelmelita1.stockx0_0.0.4_iphoneos-arm.deb
+Size: 90646472
+MD5sum: d46523a7f8cf5597923d106122df9b09
+SHA1: 61264c0665bb9a879e6f0e7163533188458320fc
+SHA256: 7bd6a2d8a76042409b9cb5c9744da7cb80510bde01272d70380a4332dc174ea5
 Section: Tweaks
 Description: All Apple Wallpapers, All in One Place
 Author: Michael Melita
@@ -105,15 +105,15 @@ Name: StockX
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info.json
 
 Package: com.michaelmelita1.stockx1
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: com.michaelmelita1.stockx0, com.michaelmelita1.stockx2, firmware (>= 13.0), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6) | cy+model.iphone (= 11.2) | cy+model.iphone (= 12.1)
-Filename: ./debs/com.michaelmelita1.stockx1_0.0.3_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.stockx1_0.0.4_iphoneos-arm.deb
 Size: 97117716
-MD5sum: b41fae6ba8374059cdaf317456aa3101
-SHA1: 31be8da767116230f1631cc1f488895e01ec95a3
-SHA256: fe6085396ae1250eb92461335666cac83b89e83011bd22afed8d0d006d90bd5c
+MD5sum: 75a6f0b0f5903059b3e5da459ac197db
+SHA1: bb012f6d9b348f419cf05410d7b771e46a84c326
+SHA256: 3ea7f79f46242b9035edba0e6f465f846fc7794bcf9ce8797c158bea93ed3285
 Section: Tweaks
 Description: Support Pack 1 for StockX
 Author: Michael Melita
@@ -122,15 +122,15 @@ Name: StockX Support Pack 1
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.stockx/info1.json
 
 Package: com.michaelmelita1.stockx2
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: com.michaelmelita1.stockx0, com.michaelmelita1.stockx1, firmware (>= 13.0), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6) | cy+model.iphone (= 11.2) | cy+model.iphone (= 12.1)
-Filename: ./debs/com.michaelmelita1.stockx2_0.0.3_iphoneos-arm.deb
+Filename: ./debs/com.michaelmelita1.stockx2_0.0.4_iphoneos-arm.deb
 Size: 98710508
-MD5sum: c9133df421a86d63e404b21b4b2d24f6
-SHA1: 93937721b964ac685cc55469542a36404f71791c
-SHA256: b851cf5dba8d76dce121d667e1a45b0d207aeff4d2c639430a00ad054ccc5a73
+MD5sum: ce4571bd6eb263d733fd985a8dc75c0a
+SHA1: d665fcdb04c60e88b44fd4908d790127762d846c
+SHA256: 72ab2f934dc9ff3f06874de159169f1072fcdc57cd2e1cfd845155e83fd16465
 Section: Tweaks
 Description: Support Pack 2 for StockX
 Author: Michael Melita
