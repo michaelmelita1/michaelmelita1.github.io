@@ -1,16 +1,16 @@
 Package: com.michaelmelita1.11cam
-Version: 0.0.4-1
+Version: 0.0.4-2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6) | cy+model.iphone (= 11.2) | cy+model.iphone (= 11.6) | cy+model.iphone (= 11.8)
-Filename: ./debs/com.michaelmelita1.11cam_0.0.4-1_iphoneos-arm.deb
-Size: 3560
-MD5sum: e7c57a9635b11beeeea26c5da98be4f4
-SHA1: cdf66be089b283fba631124659df9b56b6c60ec7
-SHA256: 7c972262e399358992e30aad63c2e00acc9284aa1430f1f5be07506f8c084a19
+Depends: mobilesubstrate, firmware (>= 13.4)
+Filename: ./debs/com.michaelmelita1.11cam_0.0.4-2_iphoneos-arm.deb
+Size: 3418
+MD5sum: 22d0488669213031efb0a395543dddb3
+SHA1: 1121d3754bb205fb1dd4cb70d76b7068404971eb
+SHA256: 5ac9532f0042f9d816e8938acd43812563504dcd8331298820798e0805c5e1c1
 Section: Tweaks
-Description: iPhone 11 Cam for iOS 13
+Description: iPhone 11 Cam for iOS 13.4
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam
 Name: 11Cam Beta
