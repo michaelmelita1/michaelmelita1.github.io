@@ -9,17 +9,10 @@
                     "useSpacing": true
                 },
                 {
-                    "markdown": "If I am here after you've uninstalled StockX, please uninstall me",
-                    "class": "DepictionMarkdownView",
-                    "title": "markdown-description",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.3",
+                    "text": "0.0.4",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
