@@ -91,7 +91,7 @@ Package: com.michaelmelita1.stockx0
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita.stockx1,  com.michaelmelita.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita1.stockx1,  com.michaelmelita1.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
 Filename: ./debs/com.michaelmelita1.stockx0_0.0.2_iphoneos-arm.deb
 Size: 68393460
 MD5sum: 5c987dea3a0745cfb1cafd3640cd2559
@@ -108,7 +108,7 @@ Package: com.michaelmelita1.stockx1
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita.stockx0, com.michaelmelita.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita1.stockx0, com.michaelmelita1.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
 Filename: ./debs/com.michaelmelita1.stockx1_0.0.2_iphoneos-arm.deb
 Size: 91086960
 MD5sum: 80a3fee8eefc9d6474d85114986c06c9
@@ -125,7 +125,7 @@ Package: com.michaelmelita1.stockx2
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita.stockx0, com.michaelmelita.stockx1, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita1.stockx0, com.michaelmelita1.stockx1, firmware (>= 13.0), cy+iphone (>= 10)
 Filename: ./debs/com.michaelmelita1.stockx2_0.0.2_iphoneos-arm.deb
 Size: 76734148
 MD5sum: 31e266078a56412184d80a4797157ad2
