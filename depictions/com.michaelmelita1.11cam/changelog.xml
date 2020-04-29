@@ -7,4 +7,8 @@
 		<version>0.0.4</version>
 		<change>Compatible with iOS 13.4</change>
 	</changes>
+	<changes>
+		<version>0.0.3</version>
+		<change>Merged changes from BetterCam to 11Cam, Added iPhone 11 Camera App Interface</change>
+	</changes>
 </changelog>
