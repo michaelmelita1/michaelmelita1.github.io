@@ -91,12 +91,12 @@ Package: com.michaelmelita1.stockx0
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita.stockx1,  com.michaelmelita.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita1.stockx1,  com.michaelmelita1.stockx2, firmware (>= 13.0), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6) | cy+model.iphone (= 11.2) | cy+model.iphone (= 12.1)
 Filename: ./debs/com.michaelmelita1.stockx0_0.0.2_iphoneos-arm.deb
-Size: 68393460
-MD5sum: 5c987dea3a0745cfb1cafd3640cd2559
-SHA1: 3374ffe36d645a8361876dc2c2f89ccb1ea7082a
-SHA256: 7f3edbb2f68121471d84e7c3de4976e2dd6637c07e1bbffb93777bb2da857dfc
+Size: 68393480
+MD5sum: f54a16f1d9d4a8cf7812fb40139ff0ea
+SHA1: 411d86f4dbe5b683460b70e18db62221774ac328
+SHA256: 83b8f032c39eef8499b31c8f29a3ebc4170b143f4f5625fd8ce03363b89fe8b2
 Section: Tweaks
 Description: All Apple Wallpapers, All in One Place
 Author: Michael Melita
@@ -108,12 +108,12 @@ Package: com.michaelmelita1.stockx1
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita.stockx0, com.michaelmelita.stockx2, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita1.stockx0, com.michaelmelita1.stockx2, firmware (>= 13.0), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6) | cy+model.iphone (= 11.2) | cy+model.iphone (= 12.1)
 Filename: ./debs/com.michaelmelita1.stockx1_0.0.2_iphoneos-arm.deb
-Size: 91086960
-MD5sum: 80a3fee8eefc9d6474d85114986c06c9
-SHA1: 590771ea24fd42debe01f302b126a55910e644c7
-SHA256: cf68321a00e1ceb875cd7795674f0420a0f5e8f31df6cfb57b8a5382bb2ad9bd
+Size: 91086980
+MD5sum: 2ca4571ac934eb0676f408ad598d4184
+SHA1: 41f11fe528cf705f891d1690e362b77ccd7be68b
+SHA256: d2c4b1d0d71625b8280aa87eec51a25e46aed11b0656423dc956582d5bbea532
 Section: Tweaks
 Description: Support Pack 1 for StockX
 Author: Michael Melita
@@ -125,12 +125,12 @@ Package: com.michaelmelita1.stockx2
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: com.michaelmelita.stockx0, com.michaelmelita.stockx1, firmware (>= 13.0), cy+iphone (>= 10)
+Depends: com.michaelmelita1.stockx0, com.michaelmelita1.stockx1, firmware (>= 13.0), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6) | cy+model.iphone (= 11.2) | cy+model.iphone (= 12.1)
 Filename: ./debs/com.michaelmelita1.stockx2_0.0.2_iphoneos-arm.deb
-Size: 76734148
-MD5sum: 31e266078a56412184d80a4797157ad2
-SHA1: 10dc1b98faa42f109dc9f2aed60b69637e2ed8db
-SHA256: 749b8c63ee79ff30be6944c1729df2a31935798b4de037ce104eec8799ab4029
+Size: 76734168
+MD5sum: 4b8fbd7daf7f91c3eecf00f3b94dfda2
+SHA1: 62176625ef4d2b63c8128e7f27d3b6895499402f
+SHA256: 7fd956de155f161f33161ec3ecaae60da70c3048f8f74d6a7aec3640662d73b9
 Section: Tweaks
 Description: Support Pack 2 for StockX
 Author: Michael Melita
