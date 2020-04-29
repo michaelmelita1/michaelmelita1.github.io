@@ -24,7 +24,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with iPhone X, XS and XR running iOS 13.4 and above. This is a beta tweak, and things are expected to be broken",
+                    "markdown": "Compatible with all iPhones running iOS 13.4 and above. This is a beta tweak, and things are expected to be broken",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -34,7 +34,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.4-1",
+                    "text": "0.0.4-2",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
