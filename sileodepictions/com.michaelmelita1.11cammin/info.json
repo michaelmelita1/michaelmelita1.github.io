@@ -30,14 +30,14 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.5",
+                    "text": "0.0.5-1",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "04-27-2020",
+                    "text": "04-29-2020",
                     "class": "DepictionTableTextView",
-                    "title": "Released"
+                    "title": "Last Updated"
                 },
                 {
                     "text": "Free",
