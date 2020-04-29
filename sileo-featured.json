@@ -1,1 +1,19 @@
-{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":10,"banners":[{"url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.bettercam/screenshots/Banner.png","title":"BetterCam","package":"com.michaelmelita1.bettercam","hideShadow":false},{"url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/Banner1.png","title":"StockX","package":"com.michaelmelita1.stockx","hideShadow":false}]}
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[  
+      {  
+         "url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.bettercam/screenshots/Featured.png",
+         "title":"BetterCam",
+         "package":"com.michaelmelita1.bettercam",
+         "hideShadow":false
+      },
+      {  
+         "url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/Banner1.png",
+         "title":"StockX",
+         "package":"com.michaelmelita1.stockx",
+         "hideShadow":false
+      },
+   ]
+}
