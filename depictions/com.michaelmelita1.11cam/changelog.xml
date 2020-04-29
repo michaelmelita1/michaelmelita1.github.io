@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.5</version>
+		<change>Added support for all devices. Added Zoom Slider to all devices</change>
+	</changes>
+	<changes>
 		<version>0.0.4</version>
 		<change>Compatible with iOS 13.4</change>
 	</changes>

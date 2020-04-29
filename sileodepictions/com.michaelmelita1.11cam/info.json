@@ -34,7 +34,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.4-2",
+                    "text": "0.0.5",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
