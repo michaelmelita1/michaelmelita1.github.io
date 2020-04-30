@@ -5,7 +5,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Support Package 2 for StockX!",
+                    "markdown": "Support Package 3 for StockX!",
                     "useSpacing": true
                 },
                 {

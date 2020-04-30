@@ -1,0 +1,14 @@
+<package>
+	<id>com.michaelmelita1.stockx3</id>
+	<name>StockX Support Pack 3</name>
+	<version>0.0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Support Package 3 for StockX</shortDescription>
+	<descriptionlist>
+		<description>Support Package 3 for StockX</description>
+       	</descriptionlist>
+</package>

@@ -30,6 +30,10 @@
                         {
                             "accessibilityText": "Screenshot4",
                             "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/5.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot5",
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/6.PNG"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
@@ -46,12 +50,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.4",
+                    "text": "0.0.5",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "04-29-2020",
+                    "text": "04-30-2020",
                     "class": "DepictionTableTextView",
                     "title": "Last Updated"
                 },
@@ -79,6 +83,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+{
+					"title": "0.0.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+{
+					"markdown": "\t\n\u2022 Added iPhone XR Wallpapers",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "0.0.4",
 					"useBoldText": true,
