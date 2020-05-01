@@ -50,7 +50,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.6",
+                    "text": "0.0.7",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -83,6 +83,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+				{ 
+					"title": "0.0.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added iPhone 11 Preview to iPhone X and XS",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{ 
 					"title": "0.0.6",
 					"useBoldText": true,
