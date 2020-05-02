@@ -1,3 +1,21 @@
+Package: com.michaelmelita.bettercamleg
+Version: 0.0.8-5
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.0), firmware (<= 13.3.1)
+Filename: ./debs/com.michaelmelita.bettercamleg_0.0.8-5_iphoneos-arm.deb
+Size: 2512
+MD5sum: 0babdbf098b99f98bc1a9e73fa4b75f4
+SHA1: b708fbe6e62a0393f87ed2585747321a7c34041a
+SHA256: f83c871009e1af5bf05832444a0f2fdfd18a2a04c9daaf428c583f1dae40c533
+Section: Tweaks
+Description: iPhone 11 Camera features for Dual Camera Devices
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercamleg
+Name: BetterCam Legacy
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercamleg/info.json
+
 Package: com.michaelmelita1.11cam
 Version: 0.0.5
 Architecture: iphoneos-arm
