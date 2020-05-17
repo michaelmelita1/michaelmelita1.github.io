@@ -88,6 +88,24 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bet
 Name: BetterCam Legacy
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercamleg/info.json
 
+Package: com.michaelmelita1.bettercamx
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6)
+Filename: ./debs/com.michaelmelita1.bettercamx_0.1.1_iphoneos-arm.deb
+Size: 2588
+MD5sum: db2edd93b468425400cfd615c009a863
+SHA1: fa842156903092a89b5a718bf4b4afa5c827c3d9
+SHA256: 976a4da79400ee5eb4185d0f1a94dbad90e745ddea63e601c1bb6295cfa5023b
+Section: Tweaks
+Description: iPhone 11 Camera features for Dual Camera Devices
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercamx
+Name: BetterCamX
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercamx/info.json
+
 Package: com.michaelmelita1.iphonexswallpapers
 Version: 0.0.2-1
 Architecture: iphoneos-arm

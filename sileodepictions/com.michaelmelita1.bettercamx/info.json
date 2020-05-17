@@ -5,7 +5,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "iPhone 11 Camera Features for Dual Camera iPhones",
+                    "markdown": "iPhone 11 Camera Features for iPhone X",
                     "useSpacing": true
                 },
                 {
@@ -32,7 +32,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "iPhone 11 Zoom and Flip Control. Depth and Intensity Control with High Key Mono. Portrait Lighting for iPhone 7 Plus.\r\n\r\nCompatibility\n\r\niPhone 7 Plus, 8 Plus and X running iOS 13 or later\r\n\r\nCredits\n\r\nThank you to JBrownLlama whose tweak Depth Control was used and modified.",
+                    "markdown": "iPhone 11 Zoom and Flip Control. Depth and Intensity Control with High Key Mono.\r\n\r\nCompatibility\n\r\niPhone X running iOS 13 or later.",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -42,7 +42,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.1.0",
+                    "text": "0.1.1",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -75,6 +75,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "0.1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Specialized version for iPhone X",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "0.1.0",
 					"useBoldText": true,
