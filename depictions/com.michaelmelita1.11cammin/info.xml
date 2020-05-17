@@ -1,7 +1,7 @@
 <package>
 	<id>com.michaelmelita1.11cammin</id>
 	<name>11CamMin</name>
-	<version>0.0.5-1</version>
+	<version>0.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.4</miniOS>
@@ -18,6 +18,6 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>Compatible with iOS 13.4</change>
+		<change>Small changes to make your camera more similar to the iPhone 11's</change>
 	</changelog>
 </package>
