@@ -53,16 +53,16 @@ Name: 11CamMin Legacy
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11camminleg/info.json
 
 Package: com.michaelmelita1.bettercam
-Version: 0.0.9-6
+Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 13.4)
-Filename: ./debs/com.michaelmelita1.bettercam_0.0.9-6_iphoneos-arm.deb
-Size: 2568
-MD5sum: 6bd5a44f59c875cd0adb3ca8993b87ec
-SHA1: 2fbcf325e219fd3722f08be712b639be0c4aef80
-SHA256: 97b046a3586503b3f2122f0cfdb5d0ef2aa2588ac2a940e45f641740c59acffe
+Filename: ./debs/com.michaelmelita1.bettercam_0.1.0_iphoneos-arm.deb
+Size: 2508
+MD5sum: d560642855a9d774509eae9d2ef17e7e
+SHA1: f2bc05723669bed1b9fcc97907115c8ac295ddc6
+SHA256: 11db2d23569952f0839eac4c199b0ac82c8cea9611edc07304c2094fe782b0fc
 Section: Tweaks
 Description: iPhone 11 Camera features for Dual Camera Devices
 Author: Michael Melita
