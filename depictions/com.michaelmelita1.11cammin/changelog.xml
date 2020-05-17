@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.6</version>
+		<change>Small changes to make your camera more similar to the iPhone 11's. Includes cleaner flip icon and transparent bottom bar for several modes</change>
+	</changes>
+	<changes>
 		<version>0.0.5</version>
 		<change>Compatible with iOS 13.4</change>
 	</changes>
