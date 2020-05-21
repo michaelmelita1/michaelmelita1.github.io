@@ -32,7 +32,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "iPhone 11 Zoom and Flip Control. Depth and Intensity Control with High Key Mono. Portrait Lighting for iPhone 7 Plus.\r\n\r\nCompatibility\n\r\niPhone 7 Plus, 8 Plus and X running iOS 13 or later\r\n\r\nCredits\n\r\nThanks to lilacvibes_ who helped implement the different zoom levels",
+                    "markdown": "iPhone 11 Zoom and Flip Control. Depth and Intensity Control with High Key Mono. Portrait Lighting for iPhone 7 Plus.\r\n\r\nCompatibility\n\r\niPhone 7 Plus and 8 Plus running iOS 13 or later\r\n\r\nCredits\n\r\nThanks to lilacvibes_ who helped implement the different zoom levels",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
