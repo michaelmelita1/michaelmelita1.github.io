@@ -34,12 +34,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.5",
+                    "text": "0.0.6",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "04-29-2020",
+                    "text": "05-21-2020",
                     "class": "DepictionTableTextView",
                     "title": "Last Updated"
                 },
@@ -67,6 +67,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "0.0.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Adds iPhone 11 Pro Zoom slider",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "0.0.5",
 					"useBoldText": true,
