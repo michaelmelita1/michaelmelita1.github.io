@@ -32,7 +32,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "iPhone 11 Zoom and Flip Control. Depth and Intensity Control with High Key Mono.\r\n\r\nCompatibility\n\r\niPhone X running iOS 13 or later.",
+                    "markdown": "iPhone 11 Zoom and Flip Control. Depth and Intensity Control with High Key Mono.\r\n\r\nCompatibility\n\r\niPhone X running iOS 13 or later.\r\n\r\nCredits\n\r\nThanks to lilacvibes_ who helped implement the different zoom levels",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -42,12 +42,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.1.2",
+                    "text": "0.1.5",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "05-17-2020",
+                    "text": "05-21-2020",
                     "class": "DepictionTableTextView",
                     "title": "Last Updated"
                 },
@@ -75,6 +75,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "0.1.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added iPhone 11 Pro Zoomer",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "0.1.2",
 					"useBoldText": true,
