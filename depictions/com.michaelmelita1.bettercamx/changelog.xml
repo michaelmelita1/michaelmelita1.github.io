@@ -1,6 +1,9 @@
 <changelog>
 <changes>
-		<version>0.1.2</version>
+	<version>0.1.5</version>
+		<change>Added iPhone 11 Pro Zoomer</change>
+	</changes>
+	<version>0.1.2</version>
 		<change>Added Shadow to the Dial</change>
 	</changes>
 	<changes>
