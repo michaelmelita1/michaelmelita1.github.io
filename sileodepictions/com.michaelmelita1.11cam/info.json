@@ -24,7 +24,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with all iPhones running iOS 13.4 and above. This is a beta tweak, and things are expected to be broken",
+                    "markdown": "Compatible with iPhone XS, XS Max, and XR running iOS 13.4 above.",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -34,12 +34,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.6",
+                    "text": "0.0.7",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "05-21-2020",
+                    "text": "05-29-2020",
                     "class": "DepictionTableTextView",
                     "title": "Last Updated"
                 },
@@ -67,6 +67,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "0.0.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Confirmed to work on A12 Devices, removed portrait code",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "0.0.6",
 					"useBoldText": true,
