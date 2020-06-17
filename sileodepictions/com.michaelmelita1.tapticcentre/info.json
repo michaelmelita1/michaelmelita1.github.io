@@ -19,7 +19,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.1.0",
+                    "text": "0.1.1",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -54,7 +54,7 @@
 			"views": [
 
 				{
-					"title": "0.1.0",
+					"title": "0.1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
