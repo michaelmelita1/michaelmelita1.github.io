@@ -19,12 +19,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.9-5",
+                    "text": "0.1.0",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "04-27-2020",
+                    "text": "06-17-2020",
                     "class": "DepictionTableTextView",
                     "title": "Released"
                 },
@@ -52,6 +52,18 @@
         {
 			"tabname": "Changelog",
 			"views": [
+
+				{
+					"title": "0.1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Minor Internal Changes",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
 				{
 					"title": "0.0.9-5",
 					"useBoldText": true,
