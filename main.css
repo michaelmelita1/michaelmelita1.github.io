@@ -110,7 +110,7 @@ section.body {
 .card img.card-icon {
     position: absolute;
     width: 150px;
-    height: 300px;
+    height: 150px;
     top: 37.5px;
     left: 50%;
     margin-left: -75px;
@@ -168,7 +168,7 @@ section.body {
     }
 
     header {
-        background-color:#1c1c1e
+        background-color: #191926
     }
 
     .button {
