@@ -110,7 +110,7 @@ section.body {
 .card img.card-icon {
     position: absolute;
     width: 150px;
-    height: 150px;
+    height: 300px;
     top: 37.5px;
     left: 50%;
     margin-left: -75px;
