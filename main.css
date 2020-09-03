@@ -113,8 +113,8 @@ section.body {
     height: 150px;
     top: 37.5px;
     left: 50%;
-    margin-left: -75px;
-    border-radius:15px
+    margin-left: -15px;
+    border-radius:7px
 }
 
 .card p {
