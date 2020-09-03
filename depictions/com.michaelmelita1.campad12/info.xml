@@ -1,0 +1,17 @@
+<package>
+	<id>com.michaelmelita1.camPad12</id>
+	<name>CamPad12</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.X</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Enable Live Photos and burst mode on iOS 12 iPads</shortDescription>
+	<descriptionlist>
+		<description>Compatible with iPad Air and iPad Mini 2</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
