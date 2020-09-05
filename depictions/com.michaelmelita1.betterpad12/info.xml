@@ -1,0 +1,17 @@
+<package>
+	<id>com.michaelmelita1.betterpad12</id>
+	<name>BetterPad12</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.X</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Enhance your iOS 12 iPad</shortDescription>
+	<descriptionlist>
+		<description>Enable Live Photos and Burst mode, as well as SplitView Multitasking. Compatible with iPad Air and iPad Mini 2</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
