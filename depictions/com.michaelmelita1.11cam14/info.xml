@@ -1,0 +1,26 @@
+<package>
+	<id>com.michaelmelita1.11cam</id>
+	<name>11Cam Beta</name>
+	<version>0.0.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.4</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>iPhone 11 Camera App for older phones</shortDescription>
+	<descriptionlist>
+		<description>11Cam adds the iPhone 11 Camera App to your iPhone</description>
+		<description>Compatible with iPhone XS, XS Max and XR running iOS 13.4 and above. This is a beta tweak, and things are expected to be broken</description>		
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>1.PNG</image>
+		</screenshot>	
+		<screenshot>
+			<image>2.PNG</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Confirmed to work on A12 Devices, removed portrait code</change>
+	</changelog>
+</package>
