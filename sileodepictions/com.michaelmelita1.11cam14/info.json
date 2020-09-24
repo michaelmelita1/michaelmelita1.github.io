@@ -5,7 +5,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "11Cam adds the iPhone 11 Camera App to your iPhone",
+                    "markdown": "11Cam14 adds the iPhone 11 Camera App to your iPhone",
                     "useSpacing": true
                 },
                 {
@@ -24,7 +24,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with iPhone XS, XS Max, and XR running iOS 13.4 above.",
+                    "markdown": "Compatible with iPhone SE - X running iOS 14",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -34,12 +34,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.7",
+                    "text": "0.0.9",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "05-29-2020",
+                    "text": "09-24-2020",
                     "class": "DepictionTableTextView",
                     "title": "Last Updated"
                 },
@@ -68,57 +68,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "0.0.7",
+					"title": "0.0.9",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Confirmed to work on A12 Devices, removed portrait code",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "0.0.6",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Adds iPhone 11 Pro Zoom slider",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "0.0.5",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Adds Compatibility with most iOS 13.4 iPhones and adds the zoom slider",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-                                {
-					"title": "0.0.4",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Adds Compatibility with iOS 13.4",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "0.0.3",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Merged changes from BetterCam to 11Cam, Added iPhone 11 Camera App interface",
+					"markdown": "\t\n\u2022 Merged BetterCam and 11Cam for iOS 13",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
