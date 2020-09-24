@@ -1,5 +1,8 @@
 <changelog>
 <changes>
+	<version>0.1.6</version>
+		<change>Locked to iOS 13</change>
+	</changes>
 	<version>0.1.5</version>
 		<change>Added iPhone 11 Pro Zoomer</change>
 	</changes>
