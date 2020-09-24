@@ -24,7 +24,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with iPhone XS, XS Max, and XR running iOS 13.4 above.",
+                    "markdown": "Compatible with iPhone XS, XS Max, and XR running iOS 13.4 - 13.7",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -34,12 +34,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.7",
+                    "text": "0.0.8",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "05-29-2020",
+                    "text": "09-24-2020",
                     "class": "DepictionTableTextView",
                     "title": "Last Updated"
                 },
@@ -67,6 +67,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+								{
+					"title": "0.0.8",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Locked to iOS 13",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "0.0.7",
 					"useBoldText": true,
