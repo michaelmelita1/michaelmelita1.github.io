@@ -5,6 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>13.4</miniOS>
+			<maxiOS>13.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<shortDescription>iPhone 11 Camera features for Older iPhones</shortDescription>
@@ -12,7 +13,7 @@
 		<description>11Cam adds the iPhone 11 Camera Features to Dual Cam iPhone</description>
 		<description>iPhone 11 Zoom and Flip Control. Depth and Intensity Control with High Key Mono. Portrait Lighting for iPhone 7 Plus.</description>	
 			<description>Compatibility</description>	
-			<description>iPhone 7 Plus, 8 Plus running iOS 13 or later</description>	
+			<description>iPhone 7 Plus, 8 Plus running iOS 13.4 - 13.7</description>	
 			<description>Thanks to lilacvibes_ who helped implement the different zoom levels</description>		
 	</descriptionlist>
 	<screenshots>
