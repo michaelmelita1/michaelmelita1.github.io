@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.8</version>
+		<change>Locked tweak to iOS 13, not needed on iOS 14 for these Devices</change>
+	</changes>
+	<changes>
 		<version>0.0.7</version>
 		<change>Confirmed to work on A12 Devices, removed portrait code</change>
 	</changes>
