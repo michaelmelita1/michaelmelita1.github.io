@@ -10,15 +10,15 @@
          "hideShadow":false
       },
       {  
-         "url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.bettercam/screenshots/Featured.png",
-         "title":"BetterCamX",
-         "package":"com.michaelmelita1.bettercamx",
+         "url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.frontcammirror/screenshots/Featured.png",
+         "title":"FrontCamMirror",
+         "package":"com.michaelmelita1.frontcammirror",
          "hideShadow":false
       },
       {  
-         "url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.stockx/screenshots/Featured.png",
-         "title":"StockX",
-         "package":"com.michaelmelita1.stockx0",
+         "url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.bettercam/screenshots/Featured.png",
+         "title":"BetterCamX",
+         "package":"com.michaelmelita1.bettercamx",
          "hideShadow":false
       },
    ]
