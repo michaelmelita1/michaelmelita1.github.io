@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.10</version>
+		<change>Fixed Portrait Effects on iPhone 7 Plus. Added Auto Live Photo Feature. Enabled Camera System Wide</change>
+	</changes>
+	<changes>
 		<version>0.0.9</version>
 		<change>Merged changes from BetterCam and 11Cam for iOS 13</change>
 	</changes>
