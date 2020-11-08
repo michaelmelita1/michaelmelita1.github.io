@@ -1,7 +1,7 @@
 <package>
-	<id>com.michaelmelita1.11cam</id>
+	<id>com.michaelmelita1.11cam14</id>
 	<name>11Cam14</name>
-	<version>0.0.9</version>
+	<version>0.0.10</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14.0</miniOS>
@@ -21,6 +21,6 @@
 		</screenshot>	
 	</screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Fixed Portrait Effects on iPhone 7 Plus. Added Auto Live Photo Feature. Enabled Camera System Wide</change>
 	</changelog>
 </package>
