@@ -77,7 +77,7 @@
 					"markdown": "\t\n\u2022 Fixed Portrait Effects on iPhone 7 Plus. Added Auto Live Photo Feature. Enabled Camera System Wide",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				}
+				},
 				{
 					"title": "0.0.9",
 					"useBoldText": true,
