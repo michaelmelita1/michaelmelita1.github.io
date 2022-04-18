@@ -1,0 +1,466 @@
+Package: com.michaelmelita1.11cam
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.4), firmware (<=13.7), cy+model.iphone (= 11.2) | cy+model.iphone (= 11.4) | cy+model.iphone (= 11.6) | cy+model.iphone (= 11.8)
+Filename: ./debs/com.michaelmelita1.11cam_0.0.8_iphoneos-arm.deb
+Size: 3588
+MD5sum: ddfed947d5f5ebef64711e4518d4d814
+SHA1: 0825a5b9b85e15ec85cad2a9d8d083d5b01347bd
+SHA256: 71f255d6cc28f5584dfb5114975f9af2872bb78e4daa5b1f1ab8910e041212be
+Section: Tweaks
+Description: iPhone 11 Camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam
+Name: 11Cam for iOS 13
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam/info.json
+
+Package: com.michaelmelita1.11cam
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iphone (= 11.2) | cy+model.iphone (= 11.4) | cy+model.iphone (= 11.6) | cy+model.iphone (= 11.8)
+Filename: ./debs/com.michaelmelita1.11cam_0.0.9_iphoneos-arm.deb
+Size: 3352
+MD5sum: a6f3f26c3056f567dc586b4dd177d1dd
+SHA1: 5577e2fd77fa6cd845f452c8fb5e1418526a0901
+SHA256: e3d677a3e0964c717811829f8dc72bda0a93e304cf2fd94ae3162705154983a7
+Section: Tweaks
+Description: iPhone 11 Camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam
+Name: 11Cam13
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam/info.json
+
+Package: com.michaelmelita1.11cam14
+Version: 0.0.10
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.michaelmelita1.11cam14_0.0.10_iphoneos-arm.deb
+Size: 3942
+MD5sum: e09aaa23e7e6f81e3c95a4c3da9028ff
+SHA1: 33fd0455ae432eeb27c60d3c237bd774b0ed31f0
+SHA256: 73c8c70850e9c99ab51af85872d3f4b124ee10766ae5091e4ec3cab9dce7455e
+Section: Tweaks
+Description: iPhone 11 Camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
+Name: 11Cam14
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
+
+Package: com.michaelmelita1.11cam14
+Version: 0.0.11
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.michaelmelita1.11cam14_0.0.11_iphoneos-arm.deb
+Size: 3966
+MD5sum: 3e958b7823f3fd204b396cb2319ec50a
+SHA1: 3b97eb24defe0762f2b607259e48f6146cbb307d
+SHA256: ba6b426e9be0e07bbe664d7fdb03ed076c1eb67e1e7e3c6634072fba9aa023ff
+Section: Tweaks
+Description: iPhone 11 Camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
+Name: 11Cam14
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
+
+Package: com.michaelmelita1.11cam14
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.michaelmelita1.11cam14_0.0.9_iphoneos-arm.deb
+Size: 3890
+MD5sum: 073d37e5469ea3e4dfdb17302abbae98
+SHA1: 109feccfcc9a3bf38dff5b896779b979cbbb27c2
+SHA256: 6566e8b2a1da66474284bea49717b4b630c8d17da56c02db99a3cf84c0fb9d2b
+Section: Tweaks
+Description: iPhone 11 Camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
+Name: 11Cam14
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
+
+Package: com.michaelmelita1.11cammin
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.4)
+Filename: ./debs/com.michaelmelita1.11cammin_0.0.6_iphoneos-arm.deb
+Size: 2722
+MD5sum: 86638eb9752721101fe50b94f73ed30b
+SHA1: e70fb0c4f8ad1cd4288ebb6f5ffa6ccd6d6e5cf6
+SHA256: 0d9c824d06a72a0174ab4ee654be14b5741b45b2f140d8d73959c4bb8da3b802
+Section: Tweaks
+Description: iPhone 11 Camera Zoom Dial for iOS 13
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cammin
+Name: 11CamMin
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
+
+Package: com.michaelmelita1.11cammin
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.4)
+Filename: ./debs/com.michaelmelita1.11cammin_0.0.8_iphoneos-arm.deb
+Size: 3250
+MD5sum: fb6f1cef7c0e7103c8ba89cf3756155a
+SHA1: 3aea395dadcd2f41cbfa4ea024609784202805d4
+SHA256: c99c390ea98afaa9dbec041161cf30717397e11076c3438ca5e057d15ea08a2a
+Section: Tweaks
+Description: iPhone 11 Camera for iOS 13
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cammin
+Name: 11CamMin
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cammin/info.json
+
+Package: com.michaelmelita1.11camminleg
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.michaelmelita1.11camminleg_0.0.4-1_iphoneos-arm.deb
+Size: 2752
+MD5sum: 921cce662860dcaf5054ea493d31ec22
+SHA1: baa30def44be825eeeedb1bf81e39316951484dd
+SHA256: 3e3c7cc617290cba3e08de2eeac42a469f28361653ec9dcc4b7c79d5a58d2f82
+Section: Tweaks
+Description: iPhone 11 Camera Zoom Dial for iOS 13
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11camminleg
+Name: 11CamMin Legacy
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11camminleg/info.json
+
+Package: com.michaelmelita1.bettercam
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iphone (= 9.2) | cy+model.iphone (= 9.4) | cy+model.iphone (= 10.2) | cy+model.iphone (= 10.5)
+Filename: ./debs/com.michaelmelita1.bettercam_0.1.2_iphoneos-arm.deb
+Size: 3734
+MD5sum: 53acea690e13c4f4a24c7e14f4881b8f
+SHA1: cd783713dd8f582dd7169de7884740e740a74e7d
+SHA256: a3bc7cb3efa18dc35f108230dc614086fdc72892069953cdff219adfdc38ff39
+Section: Tweaks
+Description: iPhone 11 Camera features for Dual Camera Devices
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercam
+Name: BetterCam
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercam/info.json
+
+Package: com.michaelmelita1.bettercam
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.4), firmware (<= 13.7), cy+model.iphone (= 9.2) | cy+model.iphone (= 9.4) | cy+model.iphone (= 10.2) | cy+model.iphone (= 10.5)
+Filename: ./debs/com.michaelmelita1.bettercam_0.1.3_iphoneos-arm.deb
+Size: 4072
+MD5sum: 538764fd172c48fa54408dd621f4f842
+SHA1: 6fdffde2e9e8cf018909baa045c8ca7106e796b0
+SHA256: 0913841fc2246675466b1477ad2857688fcaaf3ee6dbb2648446bc4f7b8e9f11
+Section: Tweaks
+Description: iPhone 11 Camera features for Dual Camera Devices
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercam
+Name: BetterCam
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercam/info.json
+
+Package: com.michaelmelita1.bettercamleg
+Version: 0.0.8-5
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.0), firmware (<= 13.3.1)
+Filename: ./debs/com.michaelmelita1.bettercamleg_0.0.8-5_iphoneos-arm.deb
+Size: 2508
+MD5sum: d15f470760218b9d98b849473c91b1f7
+SHA1: d3b43a1ee1d47df3d268cf9b51eb0f34a6559df6
+SHA256: 95a8b3c03d619837d648bc2c3b89cb7d8cba785b9415f97751fc1ae6b2f33b47
+Section: Tweaks
+Description: iPhone 11 Camera features for Dual Camera Devices
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercamleg
+Name: BetterCam Legacy
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercamleg/info.json
+
+Package: com.michaelmelita1.bettercamx
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.4), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6)
+Filename: ./debs/com.michaelmelita1.bettercamx_0.1.5_iphoneos-arm.deb
+Size: 3710
+MD5sum: 8d6e9a89dbefa42ea512e0512a71fb95
+SHA1: e155ecf044920389ab13f395801697cbfc34cbcb
+SHA256: d1bee3d7777564d99e53ed1bcfde4023f1c44467f84506a4c32bd6db990001e7
+Section: Tweaks
+Description: iPhone 11 Camera features for iPhone X
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercamx
+Name: BetterCamX
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercamx/info.json
+
+Package: com.michaelmelita1.bettercamx
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 13.4), firmware (<= 13.7), cy+model.iphone (= 10.3) | cy+model.iphone (= 10.6)
+Filename: ./debs/com.michaelmelita1.bettercamx_0.1.6_iphoneos-arm.deb
+Size: 4038
+MD5sum: 6a096682f0550c7b3d1264f340655748
+SHA1: a5d5ed750949e1029c021466d3e6bb73aad9bc08
+SHA256: ac1b8a5d667be038942f2f97e767f90dda350acf3345d144ce40d97db880fdda
+Section: Tweaks
+Description: iPhone 11 Camera features for iPhone X
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.bettercamx
+Name: BetterCamX
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercamx/info.json
+
+Package: com.michaelmelita1.betterpad12
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 176
+Depends: mobilesubstrate, firmware (<= 12.5), cy+model.ipad (= 4.1) | cy+model.ipad (= 4.2) | cy+model.ipad (= 4.3) | cy+model.ipad (= 4.4)| cy+model.ipad (= 4.5) | cy+model.ipad (= 4.6)
+Conflicts: com.michaelmelita1.iris12, com.michaelmelita1.medusa12, com.michaelmelita1.campad12
+Filename: ./debs/com.michaelmelita1.betterpad12_0.0.2_iphoneos-arm.deb
+Size: 3422
+MD5sum: 33a5d4e5b518d6ba1e4ac7cab743ac56
+SHA1: 43e1bd11d3b1176ce51d42a6556dd26ddf112ed2
+SHA256: c2fd1fdf296228521c04c0484362af49bb12a612b24baa56845a1de72a588a4f
+Section: Tweaks
+Description: Enhance your iOS 12 iPad
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.betterpad12
+Name: BetterPad12
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.betterpad12/info.json
+
+Package: com.michaelmelita1.betterpad12
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 176
+Depends: mobilesubstrate, firmware (<= 12.7), cy+model.ipad (= 4.1) | cy+model.ipad (= 4.2) | cy+model.ipad (= 4.3) | cy+model.ipad (= 4.4)| cy+model.ipad (= 4.5) | cy+model.ipad (= 4.6)
+Conflicts: com.michaelmelita1.iris12, com.michaelmelita1.medusa12, com.michaelmelita1.campad12
+Filename: ./debs/com.michaelmelita1.betterpad12_0.0.3_iphoneos-arm.deb
+Size: 3422
+MD5sum: 898a80d71e004241aa483fa7fad85139
+SHA1: 33437eaabf5f19a974af68a8105936672a08b70a
+SHA256: b012be26fcf74331be85a220f111b9a9fecd4e87b6117be37bd57799d3bf5ac6
+Section: Tweaks
+Description: Enhance your iOS 12 iPad
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.betterpad12
+Name: BetterPad12
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.betterpad12/info.json
+
+Package: com.michaelmelita1.betterpad14
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 176
+Depends: mobilesubstrate, firmware (>= 14.0), cy+model.ipad (= 5.1) | cy+model.ipad (= 5.2) | cy+model.ipad (= 5.3) | cy+model.ipad (= 5.4)
+Filename: ./debs/com.michaelmelita1.betterpad14_0.0.1_iphoneos-arm.deb
+Size: 3282
+MD5sum: e4a81baabe0cdad7bed5d0896d5f0c14
+SHA1: 255fd29dfd9045edb47df37418c75e3b9c508f50
+SHA256: 48502de589c7b1a0d01d20205a872de7a794361ae1194d69d9e0292eeef4d213
+Section: Tweaks
+Description: Enhance your iPad Air 2/iPad Mini 4
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.betterpad14
+Name: BetterPad14
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.betterpad14/info.json
+
+Package: com.michaelmelita1.campad12
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (<= 12.5), cy+model.ipad (= 4.1) | cy+model.ipad (= 4.2) | cy+model.ipad (= 4.3) | cy+model.ipad (= 4.4)| cy+model.ipad (= 4.5) | cy+model.ipad (= 4.6)
+Conflicts: com.michaelmelita1.iris12
+Filename: ./debs/com.michaelmelita1.campad12_0.0.1_iphoneos-arm.deb
+Size: 2558
+MD5sum: 985ee173a830bd8c9d80dbcbbcb32ee4
+SHA1: c7c9414622a552c37e9b1d87ccff11654864ff55
+SHA256: a62a891528d5fa41f0d30fd89b280b47b59c6644b05005472dd9bc35f6a4a8d9
+Section: Tweaks
+Description: Enable Camera Features on iOS 12 iPads
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.campad12
+Name: CamPad12
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.campad12/info.json
+
+Package: com.michaelmelita1.frontcammirror
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.michaelmelita1.frontcammirror_0.0.1_iphoneos-arm.deb
+Size: 2378
+MD5sum: a4794e337878aa2754e45969d7d8243f
+SHA1: e50f3573146d7d3aea4f4b89a15bd6d443cee785
+SHA256: 2ed0562ec9671196d2621df50fdab34e577d2f5cfcbc638979c250a666400564
+Section: Tweaks
+Description: Mirror the front camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.frontcammirror
+Name: FrontCamMirror
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.frontcammirror/info.json
+
+Package: com.michaelmelita1.iris12
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (<= 12.5)
+Filename: ./debs/com.michaelmelita1.iris12_0.0.1_iphoneos-arm.deb
+Size: 2468
+MD5sum: cb0662b82160304da7a835c2dbc7fa4d
+SHA1: b387ae493d0782747dc3eb4630f1d948cb7a1206
+SHA256: 22db180f6457469ceab494cabc759034cd94251ab572a9a6aa92b96817d20f63
+Section: Tweaks
+Description: Enable Live Photos on iOS 12 Devices
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.iris12
+Name: Iris12
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iris12/info.json
+
+Package: com.michaelmelita1.iris12
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.michaelmelita1.iris12_0.0.2_iphoneos-arm.deb
+Size: 2468
+MD5sum: a703d1b007bd8dac01338a4d54b225da
+SHA1: 630c0d317f33744de64721588a6931c124cb4318
+SHA256: afcbd6936c732eba284fffc22fc6ce1f552e1c8a678bda53b5b05c44c1904282
+Section: Tweaks
+Description: Enable Live Photos on Unsupported iOS Devices
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.iris12
+Name: Iris
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iris12/info.json
+
+Package: com.michaelmelita1.lowgraphics
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.lowgraphics_0.0.1_iphoneos-arm.deb
+Size: 2184
+MD5sum: a9efa8f34e32f8790ebe02a9fd71eec8
+SHA1: 4cd02bb0f451a3ba3f349ecfc36828461f95b5ce
+SHA256: dfdf4933683e71c98808c21c306abe7dcc01a8f6bc9355d7726b19852dd83f1e
+Section: Tweaks
+Description: Replaces Blurs with Transparency Systemwide
+Author: Michael Melita
+Name: LowGraphics
+
+Package: com.michaelmelita1.medusa12
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (<= 12.5)
+Filename: ./debs/com.michaelmelita1.medusa12_0.0.1_iphoneos-arm.deb
+Size: 2502
+MD5sum: d13d9d9efaafc45b962518d144f874a0
+SHA1: 83678e70ff27c6ac555fc699017846c48e90a64f
+SHA256: e3beff8bd9b93262edbbc6c51f16b6af088024eae6a1e9a95d7cd8fd5b5fab7e
+Section: Tweaks
+Description: Medusa for iPad Air on iOS 12
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.medusa12
+Name: Medusa12
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.medusa12/info.json
+
+Package: com.michaelmelita1.medusa12
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (<= 12.7)
+Filename: ./debs/com.michaelmelita1.medusa12_0.0.2_iphoneos-arm.deb
+Size: 2512
+MD5sum: 40d6dd4ea9cc22572167baaefeadba09
+SHA1: cbb9f777648cbf7ecd7853a7c9fd03c06e185164
+SHA256: 20bcb77be9d4f5ec84c97c09c7423c901e53453c793023fd83aca420012d15a4
+Section: Tweaks
+Description: Medusa for iPad Air on iOS 12
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.medusa12
+Name: Medusa12
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.medusa12/info.json
+
+Package: com.michaelmelita1.tapticcentre
+Version: 0.0.9-5
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.tapticcentre_0.0.9-5_iphoneos-arm.deb
+Size: 2400
+MD5sum: a3fa6bbf2563a673261bef9fb47f2af9
+SHA1: 92259e583644ad50258ae6a0514dcd1d9e051f63
+SHA256: e38616f07047e0d21d3d4a6a2a1f798cf86f4527e50cfda6e2de6386e027cf13
+Section: Tweaks
+Description: Taptic Feedback when opening Control Centre
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.tapticcentre
+Name: Taptic Centre
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.tapticcentre/info.json
+
+Package: com.michaelmelita1.tapticcentre
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.tapticcentre_0.1.1_iphoneos-arm.deb
+Size: 2224
+MD5sum: 67ba16d9623779c4c70c1f4e4bcfbaa0
+SHA1: 0b55e4809c76743e40c45654e62ff96c477198c8
+SHA256: 0106cb0de330272363512345290a0cfb3e512d27c949a52278068e45ed5a6ef4
+Section: Tweaks
+Description: Taptic Feedback when opening Control Centre
+Author: Michael Melita
+Name: TapticCentre
+
+Package: com.michaelmelita1.widebydefault
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, cy+model.iphone (= 12.1) | cy+model.iphone (= 12.3) | cy+model.iphone (= 12.5)
+Filename: ./debs/com.michaelmelita1.widebydefault_0.0.1_iphoneos-arm.deb
+Size: 2182
+MD5sum: 07bed8feb99d6ee4a9cc523223f02518
+SHA1: 89f75d9ddc2f325b0d66103c99c332cabea3ecea
+SHA256: c75d557f469a977bd4c069b9766b4110ef3dbe36aa7376b8913fa95bcb7e866b
+Section: Tweaks
+Description: Default to the Wide selfie camera on 11Pro
+Author: LaVie and Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.widebydefault
+Name: WidebyDefault
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.widebydefault/info.json
+
