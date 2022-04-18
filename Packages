@@ -377,6 +377,22 @@ Description: Replaces Blurs with Transparency Systemwide
 Author: Michael Melita
 Name: LowGraphics
 
+Package: com.michaelmelita1.lowgraphics
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.lowgraphics_0.0.2_iphoneos-arm.deb
+Size: 2298
+MD5sum: 81d44ce41222516fb03cda4942de9b82
+SHA1: c15c32fb9b5da559fd3c1b7221f1633370ce17de
+SHA256: d96e7514b47c269bb5fbb6a436bc61fb1eb37bf315a35ba77dd8e9b5d357738e
+Section: Tweaks
+Description: Replaces Blurs with Transparency Systemwide
+Author: Michael Melita
+Name: LowGraphics
+
 Package: com.michaelmelita1.medusa12
 Version: 0.0.1
 Architecture: iphoneos-arm
