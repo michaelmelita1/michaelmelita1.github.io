@@ -11,6 +11,11 @@
 	<descriptionlist>
 		<description>Enable Live Photos and Burst mode, as well as SplitView Multitasking. Compatible with iPad Air and iPad Mini 2</description>
 	</descriptionlist>
+	    <screenshots>
+        <screenshot>
+            <image>1.gif</image>
+        </screenshot>
+    </screenshots>
 	<changelog>
 		<change>Initial Release</change>
 	</changelog>
