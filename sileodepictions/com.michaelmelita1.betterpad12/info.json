@@ -8,6 +8,17 @@
                     "markdown": "Enhance your iOS 12 iPad",
                     "useSpacing": true
                 },
+		 {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.betterpad12/screenshots/1.gif"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
                 {
                     "markdown": "Enable live photos and burst mode, as well as SplitView multitasking. Compatible with iPad Air or iPad Mini 2",
                     "class": "DepictionMarkdownView",
