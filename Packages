@@ -35,42 +35,6 @@ Name: 11Cam13
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam/info.json
 
 Package: com.michaelmelita1.11cam14
-Version: 0.0.10
-Architecture: iphoneos-arm
-Maintainer: Michael Melita
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.michaelmelita1.11cam14_0.0.10_iphoneos-arm.deb
-Size: 3942
-MD5sum: e09aaa23e7e6f81e3c95a4c3da9028ff
-SHA1: 33fd0455ae432eeb27c60d3c237bd774b0ed31f0
-SHA256: 73c8c70850e9c99ab51af85872d3f4b124ee10766ae5091e4ec3cab9dce7455e
-Section: Tweaks
-Description: iPhone 11 Camera
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
-Name: 11Cam14
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
-
-Package: com.michaelmelita1.11cam14
-Version: 0.0.11
-Architecture: iphoneos-arm
-Maintainer: Michael Melita
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.michaelmelita1.11cam14_0.0.11_iphoneos-arm.deb
-Size: 3966
-MD5sum: 3e958b7823f3fd204b396cb2319ec50a
-SHA1: 3b97eb24defe0762f2b607259e48f6146cbb307d
-SHA256: ba6b426e9be0e07bbe664d7fdb03ed076c1eb67e1e7e3c6634072fba9aa023ff
-Section: Tweaks
-Description: iPhone 11 Camera
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
-Name: 11Cam14
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
-
-Package: com.michaelmelita1.11cam14
 Version: 0.0.12
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
@@ -92,31 +56,13 @@ Package: com.michaelmelita1.11cam14
 Version: 0.0.13-1+debug
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Installed-Size: 104
+Installed-Size: 108
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.michaelmelita1.11cam14_0.0.13-1+debug_iphoneos-arm.deb
-Size: 4484
-MD5sum: b7c40ad60b10f9f47bf265016a33f56a
-SHA1: 43971990377970e2ad01be6556d66c6c483541d9
-SHA256: 629b0821a142bf6f9ca5f7b6ff1798dcaab3508604e253f29b52f6a87ae4f98a
-Section: Tweaks
-Description: iPhone 11 Camera
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
-Name: 11Cam14
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
-
-Package: com.michaelmelita1.11cam14
-Version: 0.0.9
-Architecture: iphoneos-arm
-Maintainer: Michael Melita
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.michaelmelita1.11cam14_0.0.9_iphoneos-arm.deb
-Size: 3890
-MD5sum: 073d37e5469ea3e4dfdb17302abbae98
-SHA1: 109feccfcc9a3bf38dff5b896779b979cbbb27c2
-SHA256: 6566e8b2a1da66474284bea49717b4b630c8d17da56c02db99a3cf84c0fb9d2b
+Size: 5416
+MD5sum: e4e525ace7c3c92e6a90365c78843ea5
+SHA1: fe18df107ffca2863ab1f6bc65d966f6dc2592b2
+SHA256: 2f2ce01eea2a5a0f300bdc1a8cca282ac1cc917669f59658cf8e5206b7d0808f
 Section: Tweaks
 Description: iPhone 11 Camera
 Author: Michael Melita
@@ -407,23 +353,6 @@ Description: Replaces Blurs with Transparency Systemwide
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.lowgraphics
 Name: LowGraphics
-
-Package: com.michaelmelita1.tapticcentre
-Version: 0.0.9-5
-Architecture: iphoneos-arm
-Maintainer: Michael Melita
-Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.tapticcentre_0.0.9-5_iphoneos-arm.deb
-Size: 2400
-MD5sum: a3fa6bbf2563a673261bef9fb47f2af9
-SHA1: 92259e583644ad50258ae6a0514dcd1d9e051f63
-SHA256: e38616f07047e0d21d3d4a6a2a1f798cf86f4527e50cfda6e2de6386e027cf13
-Section: Tweaks
-Description: Taptic Feedback when opening Control Centre
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.tapticcentre
-Name: Taptic Centre
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.tapticcentre/info.json
 
 Package: com.michaelmelita1.tapticcentre
 Version: 0.1.1
