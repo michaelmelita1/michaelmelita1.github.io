@@ -71,6 +71,24 @@ Name: 11Cam14
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
 
 Package: com.michaelmelita1.11cam14
+Version: 0.0.12
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.michaelmelita1.11cam14_0.0.12_iphoneos-arm.deb
+Size: 2820
+MD5sum: f5cc31eac883d8032e8e69e0329c34f8
+SHA1: 1fb568382f9ef9fe318c8892c996becc4706249d
+SHA256: 2ee4a499b6197fa721e1a1c2429fe4ad14ad654f10740d9a718eddc73fdf6ba8
+Section: Tweaks
+Description: iPhone 11 Camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
+Name: 11Cam14
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
+
+Package: com.michaelmelita1.11cam14
 Version: 0.0.9
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
