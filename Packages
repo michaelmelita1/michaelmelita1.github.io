@@ -35,16 +35,52 @@ Name: 11Cam13
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam/info.json
 
 Package: com.michaelmelita1.11cam14
-Version: 0.0.12
+Version: 0.0.10
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.michaelmelita1.11cam14_0.0.12_iphoneos-arm.deb
-Size: 2820
-MD5sum: f5cc31eac883d8032e8e69e0329c34f8
-SHA1: 1fb568382f9ef9fe318c8892c996becc4706249d
-SHA256: 2ee4a499b6197fa721e1a1c2429fe4ad14ad654f10740d9a718eddc73fdf6ba8
+Filename: ./debs/com.michaelmelita1.11cam14_0.0.10_iphoneos-arm.deb
+Size: 3942
+MD5sum: e09aaa23e7e6f81e3c95a4c3da9028ff
+SHA1: 33fd0455ae432eeb27c60d3c237bd774b0ed31f0
+SHA256: 73c8c70850e9c99ab51af85872d3f4b124ee10766ae5091e4ec3cab9dce7455e
+Section: Tweaks
+Description: iPhone 11 Camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
+Name: 11Cam14
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
+
+Package: com.michaelmelita1.11cam14
+Version: 0.0.11
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.michaelmelita1.11cam14_0.0.11_iphoneos-arm.deb
+Size: 3966
+MD5sum: 3e958b7823f3fd204b396cb2319ec50a
+SHA1: 3b97eb24defe0762f2b607259e48f6146cbb307d
+SHA256: ba6b426e9be0e07bbe664d7fdb03ed076c1eb67e1e7e3c6634072fba9aa023ff
+Section: Tweaks
+Description: iPhone 11 Camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
+Name: 11Cam14
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
+
+Package: com.michaelmelita1.11cam14
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.michaelmelita1.11cam14_0.0.9_iphoneos-arm.deb
+Size: 3890
+MD5sum: 073d37e5469ea3e4dfdb17302abbae98
+SHA1: 109feccfcc9a3bf38dff5b896779b979cbbb27c2
+SHA256: 6566e8b2a1da66474284bea49717b4b630c8d17da56c02db99a3cf84c0fb9d2b
 Section: Tweaks
 Description: iPhone 11 Camera
 Author: Michael Melita
@@ -53,22 +89,22 @@ Name: 11Cam14
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
 
 Package: com.michaelmelita1.11cam15
-Version: 0.0.13-1+debug
+Version: 0.0.14
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Installed-Size: 96
+Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.michaelmelita1.11cam15_0.0.13-1+debug_iphoneos-arm.deb
-Size: 3794
-MD5sum: aa34e4e58e7c1195f2f6578092dbff2d
-SHA1: ca6927802fc528f62a4468065277c76aef962ff6
-SHA256: ae4e0fcb8de5037508335acbd9dfb0d6f1606099cc392a74f0b19a1e44432f8a
+Filename: ./debs/com.michaelmelita1.11cam15_0.0.14_iphoneos-arm.deb
+Size: 2970
+MD5sum: 697812f26a62a41ef2d764d3026c189d
+SHA1: 3554c3dea82df0e788eac3d79c9c08e4f9db9d36
+SHA256: f5c0b220c2eef4ea49b5a82c44dd1945f6f64060391e1c751e2903e5bf11543e
 Section: Tweaks
-Description: iPhone 11 Camera
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
+Description: New Camera app for iOS 15
+Author: Michael Melita & Flylarb The BMO
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
 Name: 11Cam15
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
 
 Package: com.michaelmelita1.11cammin
 Version: 0.0.6
@@ -353,6 +389,23 @@ Description: Replaces Blurs with Transparency Systemwide
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.lowgraphics
 Name: LowGraphics
+
+Package: com.michaelmelita1.tapticcentre
+Version: 0.0.9-5
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.tapticcentre_0.0.9-5_iphoneos-arm.deb
+Size: 2400
+MD5sum: a3fa6bbf2563a673261bef9fb47f2af9
+SHA1: 92259e583644ad50258ae6a0514dcd1d9e051f63
+SHA256: e38616f07047e0d21d3d4a6a2a1f798cf86f4527e50cfda6e2de6386e027cf13
+Section: Tweaks
+Description: Taptic Feedback when opening Control Centre
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.tapticcentre
+Name: Taptic Centre
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.tapticcentre/info.json
 
 Package: com.michaelmelita1.tapticcentre
 Version: 0.1.1
