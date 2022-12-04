@@ -124,6 +124,24 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11c
 Name: 11Cam15
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
 
+Package: com.michaelmelita1.11cam15
+Version: 0.0.16
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 104
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.michaelmelita1.11cam15_0.0.16_iphoneos-arm.deb
+Size: 3108
+MD5sum: 82fd4ac3c92a0c46826d6ad01fa88de7
+SHA1: fd2ed63b08f3b719b3e90d6c4e47d001b6806752
+SHA256: 881c555d70d4d373119a020404129d947bd0beeb8776db2c93def43c69da6f26
+Section: Tweaks
+Description: New Camera app for iOS 15
+Author: Michael Melita & Flylarb The BMO
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
+Name: 11Cam15
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
+
 Package: com.michaelmelita1.11cammin
 Version: 0.0.6
 Architecture: iphoneos-arm
