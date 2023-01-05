@@ -5,11 +5,11 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Default to Wide Selfie Camera for iPhone 11 and 11 Pro",
+                    "markdown": "Default to Wide Selfie Camera for iPhone 11 Series and Newer",
                     "useSpacing": true
                 },
                 {
-                    "markdown": "Compatible with iPhone 11 and 11 Pro running iOS 13.X",
+                    "markdown": "Compatible with iPhone 11 or newer running iOS 13.X or newer",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -19,12 +19,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.1",
+                    "text": "0.0.2",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "06-16-2020",
+                    "text": "06-01-2023",
                     "class": "DepictionTableTextView",
                     "title": "Last Updated"
                 },
@@ -52,6 +52,18 @@
         {
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "0.0.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Allow Install on newer phones",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+			],
 				{
 					"title": "0.0.1",
 					"useBoldText": true,
