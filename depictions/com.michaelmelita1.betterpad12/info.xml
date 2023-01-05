@@ -9,7 +9,7 @@
 	</compatibility>
 	<shortDescription>Enhance your iOS 12 iPad</shortDescription>
 	<descriptionlist>
-		<description>Enable Live Photos and Burst mode, as well as SplitView Multitasking. Compatible with iPad Air and iPad Mini 2</description>
+		<description>Enable Live Photos and Burst mode, as well as SplitView Multitasking. Compatible with iPad Air and iPad Mini 2/3</description>
 	</descriptionlist>
 	    <screenshots>
         <screenshot>
@@ -17,6 +17,6 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Added Support for iPad Mini 3</change>
 	</changelog>
 </package>
