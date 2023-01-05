@@ -287,36 +287,17 @@ Name: BetterCamX
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.bettercamx/info.json
 
 Package: com.michaelmelita1.betterpad12
-Version: 0.0.2
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Installed-Size: 176
-Depends: mobilesubstrate, firmware (<= 12.5), cy+model.ipad (= 4.1) | cy+model.ipad (= 4.2) | cy+model.ipad (= 4.3) | cy+model.ipad (= 4.4)| cy+model.ipad (= 4.5) | cy+model.ipad (= 4.6)
+Installed-Size: 192
+Depends: mobilesubstrate, firmware (<= 12.7), cy+model.ipad (= 4.1) | cy+model.ipad (= 4.2) | cy+model.ipad (= 4.3) | cy+model.ipad (= 4.4)| cy+model.ipad (= 4.5) | cy+model.ipad (= 4.6) | cy+model.ipad (= 4.7) | cy+model.ipad (= 4.8) | cy+model.ipad (= 4.9)
 Conflicts: com.michaelmelita1.iris12, com.michaelmelita1.medusa12, com.michaelmelita1.campad12
-Filename: ./debs/com.michaelmelita1.betterpad12_0.0.2_iphoneos-arm.deb
-Size: 3422
-MD5sum: 33a5d4e5b518d6ba1e4ac7cab743ac56
-SHA1: 43e1bd11d3b1176ce51d42a6556dd26ddf112ed2
-SHA256: c2fd1fdf296228521c04c0484362af49bb12a612b24baa56845a1de72a588a4f
-Section: Tweaks
-Description: Enhance your iOS 12 iPad
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.betterpad12
-Name: BetterPad12
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.betterpad12/info.json
-
-Package: com.michaelmelita1.betterpad12
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: Michael Melita
-Installed-Size: 176
-Depends: mobilesubstrate, firmware (<= 12.7), cy+model.ipad (= 4.1) | cy+model.ipad (= 4.2) | cy+model.ipad (= 4.3) | cy+model.ipad (= 4.4)| cy+model.ipad (= 4.5) | cy+model.ipad (= 4.6)
-Conflicts: com.michaelmelita1.iris12, com.michaelmelita1.medusa12, com.michaelmelita1.campad12
-Filename: ./debs/com.michaelmelita1.betterpad12_0.0.3_iphoneos-arm.deb
-Size: 3422
-MD5sum: 898a80d71e004241aa483fa7fad85139
-SHA1: 33437eaabf5f19a974af68a8105936672a08b70a
-SHA256: b012be26fcf74331be85a220f111b9a9fecd4e87b6117be37bd57799d3bf5ac6
+Filename: ./debs/com.michaelmelita1.betterpad12_0.0.4_iphoneos-arm.deb
+Size: 3450
+MD5sum: e63bd81e89a317860c42e82b4ae3784c
+SHA1: 64af9f3b5ce065bff4e439ac692dc85012762294
+SHA256: cc7936dafda5132308638a88e3f611ad7bf7bbfc45dafef271a2e9baa212af58
 Section: Tweaks
 Description: Enhance your iOS 12 iPad
 Author: Michael Melita
@@ -343,16 +324,16 @@ Name: BetterPad14
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.betterpad14/info.json
 
 Package: com.michaelmelita1.detectedtext
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 104
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.michaelmelita1.detectedtext_0.0.1_iphoneos-arm.deb
-Size: 2420
-MD5sum: 7945b8a1184b67cf9d1fa17ad3151255
-SHA1: 1e12021a06d25ab45cdaef87a2a083cf44793556
-SHA256: 5d62b61d2788ecf88302a4d48dde5b28ed7f6d23a14272272bdb86950190ca7e
+Depends: mobilesubstrate, firmware (>= 15.0), gsc.ipad
+Filename: ./debs/com.michaelmelita1.detectedtext_0.0.2_iphoneos-arm.deb
+Size: 2438
+MD5sum: 2f5b1b0fe52911c3fcebc6ff0e97d377
+SHA1: cb65b22aefb2cc4db220c5a520ae2c57472eeb05
+SHA256: 4cbb404418a3244d03993a4a1f7e3c139e29de622c3740da651e38006700160c
 Section: Tweaks
 Description: Live Text in the Camera App
 Author: Michael Melita
@@ -478,16 +459,16 @@ Author: Michael Melita
 Name: TapticCentre
 
 Package: com.michaelmelita1.widebydefault
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Installed-Size: 88
-Depends: mobilesubstrate, cy+model.iphone (= 12.1) | cy+model.iphone (= 12.3) | cy+model.iphone (= 12.5)
-Filename: ./debs/com.michaelmelita1.widebydefault_0.0.1_iphoneos-arm.deb
-Size: 2182
-MD5sum: 07bed8feb99d6ee4a9cc523223f02518
-SHA1: 89f75d9ddc2f325b0d66103c99c332cabea3ecea
-SHA256: c75d557f469a977bd4c069b9766b4110ef3dbe36aa7376b8913fa95bcb7e866b
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.widebydefault_0.0.2_iphoneos-arm.deb
+Size: 2450
+MD5sum: fcec5986812c1d417333e59e0437b261
+SHA1: f14629ab7d2bc114d17a7d427fa9e5d42d552864
+SHA256: 413de38c25487d8e643d620e0f7f592753d1ca0604f935c18fe79342fb4dfaeb
 Section: Tweaks
 Description: Default to the Wide selfie camera on 11Pro
 Author: LaVie and Michael Melita
