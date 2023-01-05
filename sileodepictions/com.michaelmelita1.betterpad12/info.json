@@ -20,7 +20,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Enable live photos and burst mode, as well as SplitView multitasking. Compatible with iPad Air or iPad Mini 2",
+                    "markdown": "Enable live photos and burst mode, as well as SplitView multitasking. Compatible with iPad Air or iPad Mini 2/3",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -30,12 +30,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.2",
+                    "text": "0.0.4",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "05-09-2020",
+                    "text": "06-01-2023",
                     "class": "DepictionTableTextView",
                     "title": "Last Updated"
                 },
@@ -63,6 +63,18 @@
         {
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "0.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added support for iPad Mini 3",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				],
 				{
 					"title": "0.0.2",
 					"useBoldText": true,
