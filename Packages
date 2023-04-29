@@ -142,6 +142,24 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11c
 Name: 11Cam15
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
 
+Package: com.michaelmelita1.11cam15-rootless
+Version: 0.0.17
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>>15.0)
+Filename: ./debs/com.michaelmelita1.11cam15-rootless_0.0.17_iphoneos-arm64.deb
+Size: 3106
+MD5sum: da4142b2f66de6d0813897e5480fd974
+SHA1: 5172ee7fe17a270a9a7e907ba8da21d9c68c2110
+SHA256: cba3773082f437e94cb266ee119bc95e7856ebe2beab77192c3b0a368ecccbf4
+Section: Tweaks
+Description: New Camera app for iOS 15 & 16
+Author: Michael Melita, Flylarb & Ezekiel1998
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
+Name: 11Cam15
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
+
 Package: com.michaelmelita1.11cammin
 Version: 0.0.6
 Architecture: iphoneos-arm
@@ -341,6 +359,24 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.det
 Name: DetectedText
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.detectedtext/info.json
 
+Package: com.michaelmelita1.detectedtext-rootless
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0), gsc.ipad
+Filename: ./debs/com.michaelmelita1.detectedtext-rootless_0.0.2_iphoneos-arm64.deb
+Size: 2426
+MD5sum: 96319e4fd287edc3d98158861efa224a
+SHA1: 6a7d4bbb6c393a67995a93111a538d8736669e8b
+SHA256: 70d84167152297ba287238c8ae4246cd6c233cdf98e9ff8edc612d99713730ea
+Section: Tweaks
+Description: Live Text in the Camera App
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.detectedtext
+Name: DetectedText
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.detectedtext/info.json
+
 Package: com.michaelmelita1.frontcammirror
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -458,6 +494,22 @@ Description: Taptic Feedback when opening Control Centre
 Author: Michael Melita
 Name: TapticCentre
 
+Package: com.michaelmelita1.tapticcentre-rootless
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.tapticcentre-rootless_0.1.1_iphoneos-arm64.deb
+Size: 2548
+MD5sum: c919c286323f04c8e80b79b85fba5f15
+SHA1: 530f80d6c6e06b4a52ba76db6a6a2bbd95f44af3
+SHA256: 0a048d88fb9aac8180e53531b82a7a2342d2be7fc86f24c2d5423e57cc9746ce
+Section: Tweaks
+Description: Taptic Feedback when opening Control Centre
+Author: Michael Melita
+Name: TapticCentre
+
 Package: com.michaelmelita1.widebydefault
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -469,6 +521,24 @@ Size: 2450
 MD5sum: fcec5986812c1d417333e59e0437b261
 SHA1: f14629ab7d2bc114d17a7d427fa9e5d42d552864
 SHA256: 413de38c25487d8e643d620e0f7f592753d1ca0604f935c18fe79342fb4dfaeb
+Section: Tweaks
+Description: Default to the Wide selfie camera on 11Pro
+Author: LaVie and Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.widebydefault
+Name: WidebyDefault
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.widebydefault/info.json
+
+Package: com.michaelmelita1.widebydefault-rootless
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.widebydefault-rootless_0.0.2_iphoneos-arm64.deb
+Size: 2544
+MD5sum: 73b3cf5c8974f5d28493da5027af182a
+SHA1: 07a0688faef39259760c3633c6300f1e1cdc9ac4
+SHA256: 380f5c84e4f5d59774bf1850438477ee8498ba83ed2a12353b2cac7c157909dc
 Section: Tweaks
 Description: Default to the Wide selfie camera on 11Pro
 Author: LaVie and Michael Melita
