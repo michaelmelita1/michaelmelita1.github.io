@@ -34,12 +34,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.16",
+                    "text": "0.0.17",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "06-12-2022",
+                    "text": "01-04-2023",
                     "class": "DepictionTableTextView",
                     "title": "Last Updated"
                 },
@@ -67,6 +67,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+				{				{
+					"title": "0.0.17",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fixed HD Video on iPhone 6S, SE and 7. Added See Outside the Frame support for Dual Camera Devices (ROOTFUL ONLY)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "0.0.16",
 					"useBoldText": true,
