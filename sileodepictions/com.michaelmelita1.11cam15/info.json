@@ -67,7 +67,7 @@
         {
 			"tabname": "Changelog",
 			"views": [
-				{				{
+				{				
 					"title": "0.0.17",
 					"useBoldText": true,
 					"useBottomMargin": true,
