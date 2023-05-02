@@ -13,11 +13,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam/screenshots/1.PNG"
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam14/screenshots/1.PNG"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam/screenshots/2.PNG"
+                            "url": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam14/screenshots/2.PNG"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
@@ -95,6 +95,6 @@
     ],
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam/screenshots/Banner1.png",
+    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam14/screenshots/Banner1.png",
     "tintColor": "#0657bb"
 }
