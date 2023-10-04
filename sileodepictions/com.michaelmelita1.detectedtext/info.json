@@ -20,7 +20,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible with iPads running iPadOS 15",
+                    "markdown": "Compatible with iPads running iPadOS 15 - 17",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
