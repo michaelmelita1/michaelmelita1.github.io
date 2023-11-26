@@ -14,7 +14,12 @@
                         {
                             "accessibilityText": "Screenshot0",
                             "url": "https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/screenshots/0.png"
+                        }, 
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/screenshots/2.png"
                         }
+
                     ],
                     "itemSize": "{160, 275.41333333333336}",
                     "itemCornerRadius": 6
@@ -80,6 +85,6 @@
     ],
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "headerImage": "https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/screenshots/Banner1.png",
+    "headerImage": "https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/screenshots/0.png",
     "tintColor": "#0657bb"
 }
