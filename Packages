@@ -1,3 +1,21 @@
+Package: com.ikilledappl3.autofolderclose-rootless
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: michaelmelita1
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.ikilledappl3.autofolderclose-rootless_1.1_iphoneos-arm64.deb
+Size: 3302
+MD5sum: 8fe5ac45af861cb328f7f06e3c269827
+SHA1: ae5d3478b667b1fefbd86aec25d726640c21c43a
+SHA256: 43848a0646ec5cc2a0a71bb5be9d4bae5fb3e009d618c54a4919951e7c8efe0a
+Section: Tweaks
+Description: Closes your folder when you launch an application.
+Author: iKilledAppl3
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.ikilledappl3.autofolderclose
+Name: AutoFolderClose
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.ikilledappl3.autofolderclose/info.json
+
 Package: com.michaelmelita1.11cam14
 Version: 0.0.11
 Architecture: iphoneos-arm
@@ -262,4 +280,40 @@ Author: LaVie and Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.widebydefault
 Name: WidebyDefault
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.widebydefault/info.json
+
+Package: com.pookjw.actionbuttonenabler
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: pookjw
+Installed-Size: 4168
+Depends: firmware (>= 17.0)
+Filename: ./debs/com.pookjw.actionbuttonenabler_1.0.1_iphoneos-arm64.deb
+Size: 3648802
+MD5sum: 0f6cb4aaf90af46e52539f08dfb42803
+SHA1: 783efa986a47c89221be8f12d530751bfa4f9301
+SHA256: 7ceb49d61de3bcee5f0884334cd78d5f14455fec0d0b00c1b0d3a3798f67f003
+Section: Tweaks
+Description: Enable Action Button on all devices!
+Author: pookjw
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.actionbuttonenabler
+Name: ActionButtonEnabler
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.actionbuttonenabler/info.json
+
+Package: com.pookjw.standpad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: pookjw
+Installed-Size: 508
+Depends: firmware (>= 17.0)
+Filename: ./debs/com.pookjw.standpad_1.0_iphoneos-arm64.deb
+Size: 9674
+MD5sum: bf2df122f6fbb70c6eb6913615cc19e4
+SHA1: b4037d2020cbae30cceeabca305afc28965eff32
+SHA256: 0d29950a013e7be65502e68f72c96b6d16fe9954a6161864e4c11ba10a40129a
+Section: Tweaks
+Description: Enable StandBy feature on iPadOS
+Author: pookjw
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.standpad
+Name: StandPad
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/info.json
 
