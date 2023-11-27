@@ -5,7 +5,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Closes your folder when you launch an application",
+                    "markdown": "Closes your folder behind you when you launch an app",
                     "useSpacing": true
                 },
                 {
@@ -20,7 +20,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Compatible rootless jailbreaks, iOS 15+",
+                    "markdown": "Compatible with rootless jailbreaks, iOS 15 - 17",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
