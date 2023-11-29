@@ -9,17 +9,6 @@
                     "useSpacing": true
                 },
                 {
-                    "class": "DepictionScreenshotsView",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot0",
-                            "url": "https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/screenshots/0.png"
-                        }
-                    ],
-                    "itemSize": "{160, 275.41333333333336}",
-                    "itemCornerRadius": 6
-                },
-                {
                     "markdown": "Compatible with rootless jailbreaks, iOS 15 - 17",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
