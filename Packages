@@ -316,22 +316,3 @@ Author: pookjw
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.standpad
 Name: StandPad
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/info.json
-
-Package: com.ps.advancedmapenabler-rootless
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 17.0)
-Filename: ./debs/com.ps.advancedmapenabler-rootless_1.0.1_iphoneos-arm64.deb
-Size: 2370
-MD5sum: cea80161a0a2f016db4366395e3809e6
-SHA1: 8fe5f8e66a2abab70c6c7af3c6d394a3f15b9681
-SHA256: 27f7cc150531d80d5b87d6f5eafcec619e0bc93e7b712fcc85983e0b7e7f82a4
-Section: Tweaks
-Description: Enable Advanced Map (globe) on unsupported iPadOS 17 devices
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/advancedmapenabler.html
-Name: Advanced Map Enabler
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/advancedmapenabler.json
-
