@@ -299,6 +299,22 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.actionbutto
 Name: ActionButtonEnabler
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.actionbuttonenabler/info.json
 
+Package: com.pookjw.animatedsfsymbol
+Version: 1.0-19+debug
+Architecture: iphoneos-arm64
+Maintainer: pookjw
+Installed-Size: 172
+Depends: firmware (>= 17.0)
+Filename: ./debs/com.pookjw.animatedsfsymbol_1.0-19+debug_iphoneos-arm64.deb
+Size: 5136
+MD5sum: 2f078d737425a1b61ad8bdf8509e8046
+SHA1: 995d891be0377fcd1c76c4c96897602da8509c9a
+SHA256: 1b2f417ac847f3c695d748955d9ee0bf866acc3f47bb296f9c931916535ab7bd
+Section: Tweaks
+Description: Hello World!
+Author: pookjw
+Name: AnimatedSFSymbol
+
 Package: com.pookjw.standpad
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -316,3 +332,4 @@ Author: pookjw
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.standpad
 Name: StandPad
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/info.json
+
