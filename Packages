@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: michaelmelita1
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.ikilledappl3.autofolderclose-rootless_1.1_iphoneos-arm64.deb
+Filename: ./debs/com.ikilledappl3.autofolderclose_1.1_iphoneos-arm64.deb
 Size: 3302
 MD5sum: 8fe5ac45af861cb328f7f06e3c269827
 SHA1: ae5d3478b667b1fefbd86aec25d726640c21c43a
@@ -57,12 +57,12 @@ Version: 0.0.17
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Installed-Size: 296
-Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 16.0), cy+cpu.arm64
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0), cy+cpu.arm64
 Filename: ./debs/com.michaelmelita1.11cam15_0.0.17_iphoneos-arm.deb
-Size: 26624
-MD5sum: cb111d93959ed83ac5dd9db89a554ad2
-SHA1: becb894ffe8678cd51469c3c64cb57901c24e5ea
-SHA256: 4b5780302b8a1d62a6e8e8a031097d8c9d83acb96d54dd29716bc409f5ea653a
+Size: 26520
+MD5sum: 3f9deab40b1f8c97c9fd64c90c822568
+SHA1: f0aaeb41692f8ec21fc22e83994927d829becc69
+SHA256: 28466ebb2c7b2ed31a46f4a048fe2b29e7602a348c23d73cd5afc025d787e763
 Section: Tweaks
 Description: New Camera app for iOS 15
 Author: Michael Melita, Flylarb & Ezekiel1998
@@ -76,7 +76,7 @@ Architecture: iphoneos-arm64
 Maintainer: Michael Melita
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>>15.0)
-Filename: ./debs/com.michaelmelita1.11cam15-rootless_0.0.17_iphoneos-arm64.deb
+Filename: ./debs/com.michaelmelita1.11cam15_0.0.17_iphoneos-arm64.deb
 Size: 3106
 MD5sum: da4142b2f66de6d0813897e5480fd974
 SHA1: 5172ee7fe17a270a9a7e907ba8da21d9c68c2110
@@ -149,6 +149,24 @@ Architecture: iphoneos-arm64
 Maintainer: Michael Melita
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 15.0), gsc.ipad
+Filename: ./debs/com.michaelmelita1.detectedtext_0.0.2_iphoneos-arm64.deb
+Size: 2426
+MD5sum: 96319e4fd287edc3d98158861efa224a
+SHA1: 6a7d4bbb6c393a67995a93111a538d8736669e8b
+SHA256: 70d84167152297ba287238c8ae4246cd6c233cdf98e9ff8edc612d99713730ea
+Section: Tweaks
+Description: Live Text in the Camera App
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.detectedtext
+Name: DetectedText
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.detectedtext/info.json
+
+Package: com.michaelmelita1.detectedtext-rootless
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0), gsc.ipad
 Filename: ./debs/com.michaelmelita1.detectedtext-rootless_0.0.2_iphoneos-arm64.deb
 Size: 2426
 MD5sum: 96319e4fd287edc3d98158861efa224a
@@ -178,6 +196,24 @@ Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.frontcammirror
 Name: FrontCamMirror
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.frontcammirror/info.json
+
+Package: com.michaelmelita1.fxxkhaptictouch
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.fxxkhaptictouch_0.0.1_iphoneos-arm64.deb
+Size: 2908
+MD5sum: c1a41fb035e935da344828cdd3eb05b5
+SHA1: ab9bccff84dd45873aff261841125a50a6f33799
+SHA256: 916b16f91851cc552d6ca137f2bed2bc942c951c9835f766ccd8de3442933308
+Section: Tweaks
+Description: Disable HapticTouch
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.fxxkhaptictouch
+Name: FxxkHapticTouch
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.fxxkhaptictouch/info.json
 
 Package: com.michaelmelita1.iris12
 Version: 0.0.2
@@ -235,7 +271,7 @@ Architecture: iphoneos-arm64
 Maintainer: Michael Melita
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.tapticcentre-rootless_0.1.1_iphoneos-arm64.deb
+Filename: ./debs/com.michaelmelita1.tapticcentre_0.1.1_iphoneos-arm64.deb
 Size: 2548
 MD5sum: c919c286323f04c8e80b79b85fba5f15
 SHA1: 530f80d6c6e06b4a52ba76db6a6a2bbd95f44af3
@@ -269,7 +305,7 @@ Architecture: iphoneos-arm64
 Maintainer: Michael Melita
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.widebydefault-rootless_0.0.2_iphoneos-arm64.deb
+Filename: ./debs/com.michaelmelita1.widebydefault_0.0.2_iphoneos-arm64.deb
 Size: 2544
 MD5sum: 73b3cf5c8974f5d28493da5027af182a
 SHA1: 07a0688faef39259760c3633c6300f1e1cdc9ac4
@@ -332,4 +368,54 @@ Author: pookjw
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.standpad
 Name: StandPad
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/info.json
+
+Package: com.ps.highweather
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.ps.highweather_1.0.0-1+debug_iphoneos-arm.deb
+Size: 2770
+MD5sum: 7c7645e16c160fa60ff611d52cf45c6b
+SHA1: f9037ef488a1fd80b56b35e7752e939be6e08733
+SHA256: 0ef364c497c57efe96b8af1a258b26e2bc0dfeaf5ff0446af9ecb52ce7958e9c
+Section: Tweaks
+Description: Best graphics for iOS 15 Weather app
+Author: PoomSmart
+Name: HighWeather
+
+Package: com.ps.highweather
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.ps.highweather_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 2830
+MD5sum: 6e43a436cb06e87ce5aace9f7439d8d0
+SHA1: 1f6d1c1144649cf732ff5ef52efeee6bd596316d
+SHA256: 8566ebb1c02b2cedb46253fc3fc3bf2d8d514bdeb1c8a548b7a54d89f19e9f12
+Section: Tweaks
+Description: Best graphics for iOS 15 Weather app
+Author: PoomSmart
+Name: HighWeather
+
+Package: com.ps.livetextenabler
+Version: 1.1.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.ps.livetextenabler_1.1.1-1+debug_iphoneos-arm64.deb
+Size: 4362
+MD5sum: 23a4b0c244a2fb53c8e48b7b73c0a1d2
+SHA1: a7ba525c0de76dc00511e921a677355aba52c0ea
+SHA256: 040dcad5dcc29b61e260d9d7d88f5ab2e2b531fc372e47383d5bf8a160bf26e2
+Section: Tweaks
+Description: Enable Live Text on unsupported iOS 15 devices
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/livetextenabler.html
+Name: Live Text Enabler
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/livetextenabler.json
 
