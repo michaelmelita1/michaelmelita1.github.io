@@ -1,3 +1,26 @@
+Package: com.afnanahmad.chromahomebarx
+Version: 0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 642
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.afnanahmad.chromahomebarx_0.4_iphoneos-arm64.deb
+Size: 119498
+MD5sum: c9e5bf0215a9d79308b24198372d49f0
+SHA1: 232aea6435e88450e444dca2b9cbf4dca1b1c159
+SHA256: fd76b34e323158418a626ae61134f67b5ad7a7df58aa7d6fcb8cbbd1432f9ef3
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
+Description: Razer Chroma insprird HomeBar coloring tweak for iPhone X, also works with LittleX.
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
+Dev: afnanahmad
+Icon: file:///Library/PreferenceBundles/ChromaHomeBarX.bundle/chroma@2x.png
+Name: ChromaHomeBarX
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.ikilledappl3.autofolderclose-rootless
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -33,42 +56,6 @@ Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
 Name: 11Cam14
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
-
-Package: com.michaelmelita1.11cam15
-Version: 0.0.16
-Architecture: iphoneos-arm
-Maintainer: Michael Melita
-Installed-Size: 104
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.michaelmelita1.11cam15_0.0.16_iphoneos-arm.deb
-Size: 3108
-MD5sum: 82fd4ac3c92a0c46826d6ad01fa88de7
-SHA1: fd2ed63b08f3b719b3e90d6c4e47d001b6806752
-SHA256: 881c555d70d4d373119a020404129d947bd0beeb8776db2c93def43c69da6f26
-Section: Tweaks
-Description: New Camera app for iOS 15
-Author: Michael Melita & Flylarb The BMO
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
-Name: 11Cam15
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
-
-Package: com.michaelmelita1.11cam15
-Version: 0.0.17
-Architecture: iphoneos-arm
-Maintainer: Michael Melita
-Installed-Size: 296
-Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0), cy+cpu.arm64
-Filename: ./debs/com.michaelmelita1.11cam15_0.0.17_iphoneos-arm.deb
-Size: 26520
-MD5sum: 3f9deab40b1f8c97c9fd64c90c822568
-SHA1: f0aaeb41692f8ec21fc22e83994927d829becc69
-SHA256: 28466ebb2c7b2ed31a46f4a048fe2b29e7602a348c23d73cd5afc025d787e763
-Section: Tweaks
-Description: New Camera app for iOS 15
-Author: Michael Melita, Flylarb & Ezekiel1998
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
-Name: 11Cam15
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
 
 Package: com.michaelmelita1.11cam15-rootless
 Version: 0.0.17
@@ -150,24 +137,6 @@ Maintainer: Michael Melita
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 15.0), gsc.ipad
 Filename: ./debs/com.michaelmelita1.detectedtext_0.0.2_iphoneos-arm64.deb
-Size: 2426
-MD5sum: 96319e4fd287edc3d98158861efa224a
-SHA1: 6a7d4bbb6c393a67995a93111a538d8736669e8b
-SHA256: 70d84167152297ba287238c8ae4246cd6c233cdf98e9ff8edc612d99713730ea
-Section: Tweaks
-Description: Live Text in the Camera App
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.detectedtext
-Name: DetectedText
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.detectedtext/info.json
-
-Package: com.michaelmelita1.detectedtext-rootless
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: Michael Melita
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 15.0), gsc.ipad
-Filename: ./debs/com.michaelmelita1.detectedtext-rootless_0.0.2_iphoneos-arm64.deb
 Size: 2426
 MD5sum: 96319e4fd287edc3d98158861efa224a
 SHA1: 6a7d4bbb6c393a67995a93111a538d8736669e8b
@@ -401,21 +370,24 @@ Description: Best graphics for iOS 15 Weather app
 Author: PoomSmart
 Name: HighWeather
 
-Package: com.ps.livetextenabler
-Version: 1.1.1-1+debug
+Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Version: 1.0.4
 Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 92
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.ps.livetextenabler_1.1.1-1+debug_iphoneos-arm64.deb
-Size: 4362
-MD5sum: 23a4b0c244a2fb53c8e48b7b73c0a1d2
-SHA1: a7ba525c0de76dc00511e921a677355aba52c0ea
-SHA256: 040dcad5dcc29b61e260d9d7d88f5ab2e2b531fc372e47383d5bf8a160bf26e2
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 175
+Depends: firmware (>= 14.1), mobilesubstrate
+Filename: ./debs/com.tomaszpoliszuk.lockscreenbatterymagsafe_1.0.4_iphoneos-arm64.deb
+Size: 7954
+MD5sum: 3fb0534db05eb915e912c629140f5c30
+SHA1: 9fa4cbd089d905579b207eb8071fb685fee9767a
+SHA256: 1587aa1eb5f835f9b001988058c5fa2577578aa154afad9da7d1a68be148af79
 Section: Tweaks
-Description: Enable Live Text on unsupported iOS 15 devices
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/livetextenabler.html
-Name: Live Text Enabler
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/livetextenabler.json
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
+Description: Enable new native MagSafe charging view on lockscreen when connecting device to power source
+Tag: purpose::extension
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
+Dev: tomaszpoliszuk
+Name: MagSafe Enabler
+Sponsor: thebigboss.org <http://thebigboss.org>
 
