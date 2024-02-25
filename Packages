@@ -57,19 +57,37 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11c
 Name: 11Cam14
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
 
-Package: com.michaelmelita1.11cam15-rootless
+Package: com.michaelmelita1.11cam15
 Version: 0.0.17
 Architecture: iphoneos-arm64
 Maintainer: Michael Melita
 Installed-Size: 88
-Depends: mobilesubstrate, firmware (>>15.0)
+Depends: mobilesubstrate, firmware (>= 15.0), cy+cpu.arm64
 Filename: ./debs/com.michaelmelita1.11cam15_0.0.17_iphoneos-arm64.deb
-Size: 3106
-MD5sum: da4142b2f66de6d0813897e5480fd974
-SHA1: 5172ee7fe17a270a9a7e907ba8da21d9c68c2110
-SHA256: cba3773082f437e94cb266ee119bc95e7856ebe2beab77192c3b0a368ecccbf4
+Size: 3152
+MD5sum: 8829a9edeca679a0c584dfd0fffeb31d
+SHA1: 7187f6f09d91fb40e1f5a6c3133807decf240b7e
+SHA256: 29471fd12de4453e78ac26ca559a22c0cfcfa738175295fa4d1c7e772fabb388
 Section: Tweaks
-Description: New Camera app for iOS 15 & 16
+Description: New Camera app for iOS 15
+Author: Michael Melita, Flylarb & Ezekiel1998
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
+Name: 11Cam15
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
+
+Package: com.michaelmelita1.11cam15
+Version: 0.0.18
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0), cy+cpu.arm64
+Filename: ./debs/com.michaelmelita1.11cam15_0.0.18_iphoneos-arm64.deb
+Size: 3200
+MD5sum: f75fe6bbae2bdbc0fd55fd7a74ea4955
+SHA1: 71bb7dfeb3698330b11ed72e62dbaffde585d27f
+SHA256: a0d6149329c5512594669f1b8fce6922bddd0e398c18d58ebc12dbad3679051b
+Section: Tweaks
+Description: New Camera app for iOS 15
 Author: Michael Melita, Flylarb & Ezekiel1998
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
 Name: 11Cam15
@@ -374,18 +392,18 @@ Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
 Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 175
+Installed-Size: 168
 Depends: firmware (>= 14.1), mobilesubstrate
 Filename: ./debs/com.tomaszpoliszuk.lockscreenbatterymagsafe_1.0.4_iphoneos-arm64.deb
-Size: 7954
-MD5sum: 3fb0534db05eb915e912c629140f5c30
-SHA1: 9fa4cbd089d905579b207eb8071fb685fee9767a
-SHA256: 1587aa1eb5f835f9b001988058c5fa2577578aa154afad9da7d1a68be148af79
+Size: 4550
+MD5sum: 24e3342d8bcbef5ec8dec97740c4cf7a
+SHA1: 5a7af79cec3ea15c8f7b5ce907cc24fd80746a23
+SHA256: e7ad57e95f3312ad05d88849e44eec5ccd2dbd9d2f0b6c46a8908063905353b6
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
 Description: Enable new native MagSafe charging view on lockscreen when connecting device to power source
 Tag: purpose::extension
-Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Author: Tomasz Poliszuk
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
 Dev: tomaszpoliszuk
 Name: MagSafe Enabler
