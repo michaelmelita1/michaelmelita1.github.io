@@ -3,7 +3,7 @@
 		<link>
 			<name>Follow me on Bluesky</name>
 			<url>https://bsky.app/profile/michaelmelita.bsky.social</url>
-			<iconclass>fa fa-bluesky</iconclass>
+			<iconclass>fa-brands fa-bluesky</iconclass>
 		</link>
 	</footerlinks>
 </repo>
