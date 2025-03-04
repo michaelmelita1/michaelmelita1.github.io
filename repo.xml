@@ -1,9 +1,9 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/michael_melita</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Follow me on Bluesky</name>
+			<url>https://bsky.app/profile/michaelmelita.bsky.social</url>
+			<iconclass>fa fa-bluesky</iconclass>
 		</link>
 	</footerlinks>
 </repo>
