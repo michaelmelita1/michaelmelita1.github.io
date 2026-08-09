@@ -178,22 +178,6 @@ Name: FxxkHapticTouch
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.fxxkhaptictouch/info.json
 
 Package: com.michaelmelita1.interactivesiri
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: michaelmelita1
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.michaelmelita1.interactivesiri_0.1_iphoneos-arm64.deb
-Size: 3286
-MD5sum: f49f8808a9295e7d1117589928033784
-SHA1: 9b0b2ddd4029004eabc32a1889ff03722a1f34a5
-SHA256: af7f5bc348e61076c98d61fae5d73ad21b0dce3397b21b3478b803b1feb683fb
-Section: Tweaks
-Description: InteractiveSiri
-Author: michaelmelita1
-Name: InteractiveSiri
-
-Package: com.michaelmelita1.interactivesiri
 Version: 0.2
 Architecture: iphoneos-arm64
 Maintainer: michaelmelita1
@@ -229,20 +213,21 @@ Name: Iris
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iris12/info.json
 
 Package: com.michaelmelita1.little16
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: michelmelita1
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.little16_0.0.1.deb
-Size: 3712
-MD5sum: 22978f8f15624eae47ec3a49b1897ce3
-SHA1: 82cc586c9d14124342e3ba5dc7965b7fef8944c4
-SHA256: 81e8373c9728a29c53c850ddfc49f4f6634a71756ea822eb8dcba89b0101af95
+Filename: ./debs/com.michaelmelita1.little16_0.0.2_iphoneos-arm64.deb
+Size: 3644
+MD5sum: 116e4439a86582ff887e1864913473c9
+SHA1: f1bd1a93c001e0ca7fa9f34c3670a61828e72d30
+SHA256: 292bf410d9876887f0b1a13d56cac021e573dc52d4c8c59879ea2486b0a597c1
 Section: Tweaks
 Description: iPhone X gestures for iOS 16
 Author: michaelmelita1
 Name: Little16
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
 
 Package: com.michaelmelita1.lowgraphics
 Version: 0.0.3
