@@ -5,11 +5,11 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Taptic Feedback when opening Control Centre",
+                    "markdown": "iPhone X gestures on iOS 16",
                     "useSpacing": true
                 },
                 {
-                    "markdown": " Compatible with iPhone 6S - X running iOS 13",
+                    "markdown": " Compatible with iPhone 7 - SE3 running iOS 16",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -19,12 +19,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.1.1",
+                    "text": "0.0.3",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "06-17-2020",
+                    "text": "10-08-2026",
                     "class": "DepictionTableTextView",
                     "title": "Released"
                 },
@@ -54,24 +54,24 @@
 			"views": [
 
 				{
-					"title": "0.1.1",
+					"title": "0.0.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Minor Internal Changes",
+					"markdown": "\t\n\u2022 Fixed Status Bar cuttoff on iOS 16",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},				
 				{
-					"title": "0.0.9-5",
+					"title": "0.0.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Increased Stock App loading speed",
+					"markdown": "\t\n\u2022 Added Control Center Status Bar",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
