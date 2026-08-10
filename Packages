@@ -178,22 +178,6 @@ Name: FxxkHapticTouch
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.fxxkhaptictouch/info.json
 
 Package: com.michaelmelita1.interactivesiri
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: michaelmelita1
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.michaelmelita1.interactivesiri_0.1_iphoneos-arm64.deb
-Size: 3286
-MD5sum: f49f8808a9295e7d1117589928033784
-SHA1: 9b0b2ddd4029004eabc32a1889ff03722a1f34a5
-SHA256: af7f5bc348e61076c98d61fae5d73ad21b0dce3397b21b3478b803b1feb683fb
-Section: Tweaks
-Description: InteractiveSiri
-Author: michaelmelita1
-Name: InteractiveSiri
-
-Package: com.michaelmelita1.interactivesiri
 Version: 0.2
 Architecture: iphoneos-arm64
 Maintainer: michaelmelita1
@@ -229,22 +213,6 @@ Name: Iris
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iris12/info.json
 
 Package: com.michaelmelita1.little16
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: michelmelita1
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.little16_0.0.1.deb
-Size: 3712
-MD5sum: 22978f8f15624eae47ec3a49b1897ce3
-SHA1: 82cc586c9d14124342e3ba5dc7965b7fef8944c4
-SHA256: 81e8373c9728a29c53c850ddfc49f4f6634a71756ea822eb8dcba89b0101af95
-Section: Tweaks
-Description: iPhone X gestures for iOS 16
-Author: michaelmelita1
-Name: Little16
-
-Package: com.michaelmelita1.little16
 Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: michelmelita1
@@ -262,16 +230,16 @@ Name: Little16
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
 
 Package: com.michaelmelita1.little16
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: michelmelita1
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.little16_0.0.3_iphoneos-arm64.deb
-Size: 3640
-MD5sum: 12376838383d89b47ab9b635c1341f25
-SHA1: 7dcd12b006a79060c28f9c9f5a55777c8260aa09
-SHA256: 2e648561ba6f11f79c622f770ecb8e080aa6864275a35de5e17f3a18ba10f0f3
+Filename: ./debs/com.michaelmelita1.little16_0.0.4_iphoneos-arm64.deb
+Size: 3708
+MD5sum: 0e260b997f5236706d2635a41caa450d
+SHA1: b3bd15dc24abb122cbaa9a5e53e9fb09309c0ad4
+SHA256: 25e0adbe615ebc6ff74727ac308ae8808029d2cc0e0677b3512722cd210827df
 Section: Tweaks
 Description: iPhone X gestures for iOS 16
 Author: michaelmelita1
@@ -361,74 +329,6 @@ Author: LaVie and Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.widebydefault
 Name: WidebyDefault
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.widebydefault/info.json
-
-Package: com.pookjw.actionbuttonenabler
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: pookjw
-Installed-Size: 4168
-Depends: firmware (>= 17.0)
-Filename: ./debs/com.pookjw.actionbuttonenabler_1.0.1_iphoneos-arm64.deb
-Size: 3648802
-MD5sum: 0f6cb4aaf90af46e52539f08dfb42803
-SHA1: 783efa986a47c89221be8f12d530751bfa4f9301
-SHA256: 7ceb49d61de3bcee5f0884334cd78d5f14455fec0d0b00c1b0d3a3798f67f003
-Section: Tweaks
-Description: Enable Action Button on all devices!
-Author: pookjw
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.actionbuttonenabler
-Name: ActionButtonEnabler
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.actionbuttonenabler/info.json
-
-Package: com.pookjw.animatedsfsymbol
-Version: 1.0-19+debug
-Architecture: iphoneos-arm64
-Maintainer: pookjw
-Installed-Size: 172
-Depends: firmware (>= 17.0)
-Filename: ./debs/com.pookjw.animatedsfsymbol_1.0-19+debug_iphoneos-arm64.deb
-Size: 5136
-MD5sum: 2f078d737425a1b61ad8bdf8509e8046
-SHA1: 995d891be0377fcd1c76c4c96897602da8509c9a
-SHA256: 1b2f417ac847f3c695d748955d9ee0bf866acc3f47bb296f9c931916535ab7bd
-Section: Tweaks
-Description: Hello World!
-Author: pookjw
-Name: AnimatedSFSymbol
-
-Package: com.pookjw.standpad
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: pookjw
-Installed-Size: 508
-Depends: firmware (>= 17.0)
-Filename: ./debs/com.pookjw.standpad_1.0_iphoneos-arm64.deb
-Size: 9674
-MD5sum: bf2df122f6fbb70c6eb6913615cc19e4
-SHA1: b4037d2020cbae30cceeabca305afc28965eff32
-SHA256: 0d29950a013e7be65502e68f72c96b6d16fe9954a6161864e4c11ba10a40129a
-Section: Tweaks
-Description: Enable StandBy feature on iPadOS
-Author: pookjw
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.standpad
-Name: StandPad
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/info.json
-
-Package: com.ps.highweather
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.ps.highweather_1.0.0-1+debug_iphoneos-arm.deb
-Size: 2770
-MD5sum: 7c7645e16c160fa60ff611d52cf45c6b
-SHA1: f9037ef488a1fd80b56b35e7752e939be6e08733
-SHA256: 0ef364c497c57efe96b8af1a258b26e2bc0dfeaf5ff0446af9ecb52ce7958e9c
-Section: Tweaks
-Description: Best graphics for iOS 15 Weather app
-Author: PoomSmart
-Name: HighWeather
 
 Package: com.ps.highweather
 Version: 1.0.0-2+debug
