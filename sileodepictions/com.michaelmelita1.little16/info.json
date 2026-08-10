@@ -19,12 +19,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.3",
+                    "text": "0.0.4",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "10-08-2026",
+                    "text": "10-10-2026",
                     "class": "DepictionTableTextView",
                     "title": "Released"
                 },
@@ -52,7 +52,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
-
+				{
+					"title": "0.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added iPad Status Bar",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
 				{
 					"title": "0.0.3",
 					"useBoldText": true,
