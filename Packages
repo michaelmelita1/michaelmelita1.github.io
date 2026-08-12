@@ -16,24 +16,6 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.ikilledappl3.autof
 Name: AutoFolderClose
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.ikilledappl3.autofolderclose/info.json
 
-Package: com.michaelmelita1.11cam14
-Version: 0.0.11
-Architecture: iphoneos-arm
-Maintainer: Michael Melita
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.michaelmelita1.11cam14_0.0.11_iphoneos-arm.deb
-Size: 3966
-MD5sum: 3e958b7823f3fd204b396cb2319ec50a
-SHA1: 3b97eb24defe0762f2b607259e48f6146cbb307d
-SHA256: ba6b426e9be0e07bbe664d7fdb03ed076c1eb67e1e7e3c6634072fba9aa023ff
-Section: Tweaks
-Description: iPhone 11 Camera
-Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
-Name: 11Cam14
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
-
 Package: com.michaelmelita1.11cam15-rootless
 Version: 0.0.17
 Architecture: iphoneos-arm64
@@ -90,16 +72,16 @@ Name: BetterPad14
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.betterpad14/info.json
 
 Package: com.michaelmelita1.chromahomebarx
-Version: 0.5
+Version: 0.6
 Architecture: iphoneos-arm64
 Maintainer: michaelmelita1
-Installed-Size: 88
+Installed-Size: 184
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.michaelmelita1.chromahomebarx_0.5_iphoneos-arm64.deb
-Size: 6192
-MD5sum: 3dc1346475efe40b39b298166e8ead00
-SHA1: ad9ad690ad99872724d88a5d30849f9d7084c4c6
-SHA256: 8c021e79d0ddad8e1dfb6eef11a98b696b2f5798d81ca87e5bac87dbb53f6e76
+Filename: ./debs/com.michaelmelita1.chromahomebarx_0.6_iphoneos-arm64.deb
+Size: 8288
+MD5sum: 09201971e18ab7c56456a7d97cdf5071
+SHA1: b680fc4bfc4404e8b102c9248a54a53e52c76692
+SHA256: ac3494c12f1205d41a7586e584a4e38bdd00379b4d2d5961e37eecc61bd775ad
 Section: Tweaks
 Description: Razer Chroma inspired HomeBar tweak
 Author: Afnad Ahmad
@@ -245,23 +227,6 @@ Author: michaelmelita1
 Name: Little16
 
 Package: com.michaelmelita1.little16
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: michelmelita1
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.little16_0.0.2_iphoneos-arm64.deb
-Size: 3644
-MD5sum: 116e4439a86582ff887e1864913473c9
-SHA1: f1bd1a93c001e0ca7fa9f34c3670a61828e72d30
-SHA256: 292bf410d9876887f0b1a13d56cac021e573dc52d4c8c59879ea2486b0a597c1
-Section: Tweaks
-Description: iPhone X gestures for iOS 16
-Author: michaelmelita1
-Name: Little16
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
-
-Package: com.michaelmelita1.little16
 Version: 0.0.3
 Architecture: iphoneos-arm64
 Maintainer: michelmelita1
@@ -279,33 +244,16 @@ Name: Little16
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
 
 Package: com.michaelmelita1.little16
-Version: 0.0.4
+Version: 0.0.6
 Architecture: iphoneos-arm64
 Maintainer: michelmelita1
-Installed-Size: 88
+Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.little16_0.0.4_iphoneos-arm64.deb
-Size: 3708
-MD5sum: 0e260b997f5236706d2635a41caa450d
-SHA1: b3bd15dc24abb122cbaa9a5e53e9fb09309c0ad4
-SHA256: 25e0adbe615ebc6ff74727ac308ae8808029d2cc0e0677b3512722cd210827df
-Section: Tweaks
-Description: iPhone X gestures for iOS 16
-Author: michaelmelita1
-Name: Little16
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
-
-Package: com.michaelmelita1.little16
-Version: 0.0.5
-Architecture: iphoneos-arm64
-Maintainer: michelmelita1
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.little16_0.0.5_iphoneos-arm64.deb
-Size: 4210
-MD5sum: 1929281287af1dfb73afaaed886a928f
-SHA1: 4e63492d080427f108cded032b89e90786cb06e1
-SHA256: fa3580d33676db4e9d7a5e4bdf131538936575e1e674310d18ebcd558b8d44c6
+Filename: ./debs/com.michaelmelita1.little16_0.0.6_iphoneos-arm64.deb
+Size: 5564
+MD5sum: 183b1e71053af019dfd0b469ed5f3934
+SHA1: 4b6253edd1ef2d050670d566c114950cbe045193
+SHA256: 86173f9e439021c8ba2d61b4bd3e611b43389c2471bda1cd7137f6dd78668114
 Section: Tweaks
 Description: iPhone X gestures for iOS 16
 Author: michaelmelita1
@@ -396,74 +344,6 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.wid
 Name: WidebyDefault
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.widebydefault/info.json
 
-Package: com.pookjw.actionbuttonenabler
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: pookjw
-Installed-Size: 4168
-Depends: firmware (>= 17.0)
-Filename: ./debs/com.pookjw.actionbuttonenabler_1.0.1_iphoneos-arm64.deb
-Size: 3648802
-MD5sum: 0f6cb4aaf90af46e52539f08dfb42803
-SHA1: 783efa986a47c89221be8f12d530751bfa4f9301
-SHA256: 7ceb49d61de3bcee5f0884334cd78d5f14455fec0d0b00c1b0d3a3798f67f003
-Section: Tweaks
-Description: Enable Action Button on all devices!
-Author: pookjw
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.actionbuttonenabler
-Name: ActionButtonEnabler
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.actionbuttonenabler/info.json
-
-Package: com.pookjw.animatedsfsymbol
-Version: 1.0-19+debug
-Architecture: iphoneos-arm64
-Maintainer: pookjw
-Installed-Size: 172
-Depends: firmware (>= 17.0)
-Filename: ./debs/com.pookjw.animatedsfsymbol_1.0-19+debug_iphoneos-arm64.deb
-Size: 5136
-MD5sum: 2f078d737425a1b61ad8bdf8509e8046
-SHA1: 995d891be0377fcd1c76c4c96897602da8509c9a
-SHA256: 1b2f417ac847f3c695d748955d9ee0bf866acc3f47bb296f9c931916535ab7bd
-Section: Tweaks
-Description: Hello World!
-Author: pookjw
-Name: AnimatedSFSymbol
-
-Package: com.pookjw.standpad
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: pookjw
-Installed-Size: 508
-Depends: firmware (>= 17.0)
-Filename: ./debs/com.pookjw.standpad_1.0_iphoneos-arm64.deb
-Size: 9674
-MD5sum: bf2df122f6fbb70c6eb6913615cc19e4
-SHA1: b4037d2020cbae30cceeabca305afc28965eff32
-SHA256: 0d29950a013e7be65502e68f72c96b6d16fe9954a6161864e4c11ba10a40129a
-Section: Tweaks
-Description: Enable StandBy feature on iPadOS
-Author: pookjw
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.standpad
-Name: StandPad
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/info.json
-
-Package: com.ps.highweather
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.ps.highweather_1.0.0-1+debug_iphoneos-arm.deb
-Size: 2770
-MD5sum: 7c7645e16c160fa60ff611d52cf45c6b
-SHA1: f9037ef488a1fd80b56b35e7752e939be6e08733
-SHA256: 0ef364c497c57efe96b8af1a258b26e2bc0dfeaf5ff0446af9ecb52ce7958e9c
-Section: Tweaks
-Description: Best graphics for iOS 15 Weather app
-Author: PoomSmart
-Name: HighWeather
-
 Package: com.ps.highweather
 Version: 1.0.0-2+debug
 Architecture: iphoneos-arm64
@@ -498,22 +378,20 @@ Dev: rpetrich
 Name: FastBlurredNotificationCenter
 
 Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 88
+Installed-Size: 184
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.tomaszpoliszuk.lockscreenbatterymagsafe_1.1_iphoneos-arm64.deb
-Size: 3804
-MD5sum: 0d4d07f5b2721f400c7fc005f8aeb78a
-SHA1: 64466c85a50c387b78f31c82dd50aea7dab3e385
-SHA256: b80f5acbbd85ef6e5741cec60ba5ae52970f2e714d8dffbe9fd7398cc78173a9
+Filename: ./debs/com.tomaszpoliszuk.lockscreenbatterymagsafe_1.2_iphoneos-arm64.deb
+Size: 5096
+MD5sum: 36a69082030f6e340b1ad941e07f4376
+SHA1: 48c97a8764af96d2633a2e13ba9727667a1208d7
+SHA256: 54fe0a14ceb6cf992c4f93bd5a25ff5a57e0df2b38818ae498c77b3d18c6e8b7
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
 Description: Enable new native MagSafe charging view on lockscreen when connecting device to power source
 Tag: purpose::extension
 Author: Tomasz Poliszuk
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
 Dev: tomaszpoliszuk
 Name: MagSafe Enabler
 Sponsor: thebigboss.org <http://thebigboss.org>
