@@ -19,7 +19,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.4",
+                    "text": "0.0.5",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -52,6 +52,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+								{
+					"title": "0.0.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fixes LS Quick Actions compatibility with Liquid(Gl)ass",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},		
 				{
 					"title": "0.0.4",
 					"useBoldText": true,
@@ -59,7 +70,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added iPad Status Bar",
+					"markdown": "\t\n\u2022 Added iPad Status Bar to fix animation bug with Control Centre status bar",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},				
@@ -70,7 +81,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fixed Status Bar cuttoff on iOS 16",
+					"markdown": "\t\n\u2022 Fixed Status Bar cuttoff on iOS 15",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},				
