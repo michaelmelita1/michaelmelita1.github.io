@@ -19,7 +19,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.5",
+                    "text": "0.0.6",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -52,7 +52,18 @@
         {
 			"tabname": "Changelog",
 			"views": [
-								{
+				{
+					"title": "0.0.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Add ARM64e slice to fix iOS 17+ compatibility",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},		
+				{
 					"title": "0.0.5",
 					"useBoldText": true,
 					"useBottomMargin": true,
