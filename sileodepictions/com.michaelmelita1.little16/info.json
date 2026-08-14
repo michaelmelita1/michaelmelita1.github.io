@@ -19,12 +19,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.6",
+                    "text": "0.0.7",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "10-10-2026",
+                    "text": "14-10-2026",
                     "class": "DepictionTableTextView",
                     "title": "Released"
                 },
@@ -52,6 +52,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "0.0.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fixed Notification Centre & Alarm being too low",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},		
 				{
 					"title": "0.0.6",
 					"useBoldText": true,
