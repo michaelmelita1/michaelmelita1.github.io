@@ -19,7 +19,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.7",
+                    "text": "0.0.8",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -52,6 +52,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+								{
+					"title": "0.0.8",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Disabled Notification fix on iOS 15",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},		
 				{
 					"title": "0.0.7",
 					"useBoldText": true,
@@ -59,7 +70,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fixed Notification Centre & Alarm being too low",
+					"markdown": "\t\n\u2022 Fixed Notification Centre & Alarm Dismisal buttons being too low",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},		
