@@ -175,23 +175,6 @@ Description: InteractiveSiri
 Author: michaelmelita1
 Name: InteractiveSiri
 
-Package: com.michaelmelita1.interactivesiri
-Version: 0.2
-Architecture: iphoneos-arm64
-Maintainer: michaelmelita1
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.michaelmelita1.interactivesiri_0.2_iphoneos-arm64.deb
-Size: 3480
-MD5sum: a7008d6814f0af57f401c2243d0e828a
-SHA1: 31abe763ef1b76ef4cffba4cd1a8fa66e47b0037
-SHA256: 73a5a076041bf03f06e3325b973f2c24c922b3f709d86b7311ba4a4d76a31ccd
-Section: Tweaks
-Description: InteractiveSiri
-Author: michaelmelita1
-Name: InteractiveSiri
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.interactivesiri/info.json
-
 Package: com.michaelmelita1.iris12
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -209,22 +192,6 @@ Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.iris12
 Name: Iris
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iris12/info.json
-
-Package: com.michaelmelita1.little16
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: michelmelita1
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.little16_0.0.1.deb
-Size: 3712
-MD5sum: 22978f8f15624eae47ec3a49b1897ce3
-SHA1: 82cc586c9d14124342e3ba5dc7965b7fef8944c4
-SHA256: 81e8373c9728a29c53c850ddfc49f4f6634a71756ea822eb8dcba89b0101af95
-Section: Tweaks
-Description: iPhone X gestures for iOS 16
-Author: michaelmelita1
-Name: Little16
 
 Package: com.michaelmelita1.little16
 Version: 0.0.3
@@ -261,16 +228,16 @@ Name: Little16
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
 
 Package: com.michaelmelita1.little16
-Version: 0.0.7
+Version: 0.0.8
 Architecture: iphoneos-arm64
 Maintainer: michelmelita1
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.little16_0.0.7_iphoneos-arm64.deb
-Size: 5840
-MD5sum: 5f54024b9f2d4abdeddf06c4c8fac2f4
-SHA1: 76098de71c9f6f7684f66b3e078b3dc9d201b0c3
-SHA256: 36dcbb0edf50d1f7dc6540eca043a2708d1f760bb151a8753d190d1d9e5b0437
+Filename: ./debs/com.michaelmelita1.little16_0.0.8_iphoneos-arm64.deb
+Size: 6010
+MD5sum: 5bab4f924cb6f648d65f2903b2095102
+SHA1: f3aa36f729cdb2baecd7b332bb4ca9dcffbb241c
+SHA256: b533c433611ee832459124163edfdacaa1a7c5a96ac68f89fa58f8701a4c8364
 Section: Tweaks
 Description: iPhone X gestures for iOS 16
 Author: michaelmelita1
