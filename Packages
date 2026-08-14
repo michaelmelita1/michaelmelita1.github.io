@@ -260,6 +260,23 @@ Author: michaelmelita1
 Name: Little16
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
 
+Package: com.michaelmelita1.little16
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Maintainer: michelmelita1
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.little16_0.0.7_iphoneos-arm64.deb
+Size: 5840
+MD5sum: 5f54024b9f2d4abdeddf06c4c8fac2f4
+SHA1: 76098de71c9f6f7684f66b3e078b3dc9d201b0c3
+SHA256: 36dcbb0edf50d1f7dc6540eca043a2708d1f760bb151a8753d190d1d9e5b0437
+Section: Tweaks
+Description: iPhone X gestures for iOS 16
+Author: michaelmelita1
+Name: Little16
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
+
 Package: com.michaelmelita1.lowgraphics
 Version: 0.0.3
 Architecture: iphoneos-arm
