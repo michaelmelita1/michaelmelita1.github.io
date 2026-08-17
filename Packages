@@ -16,6 +16,24 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.ikilledappl3.autof
 Name: AutoFolderClose
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.ikilledappl3.autofolderclose/info.json
 
+Package: com.michaelmelita1.11cam14
+Version: 0.0.11
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.michaelmelita1.11cam14_0.0.11_iphoneos-arm.deb
+Size: 3966
+MD5sum: 3e958b7823f3fd204b396cb2319ec50a
+SHA1: 3b97eb24defe0762f2b607259e48f6146cbb307d
+SHA256: ba6b426e9be0e07bbe664d7fdb03ed076c1eb67e1e7e3c6634072fba9aa023ff
+Section: Tweaks
+Description: iPhone 11 Camera
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
+Name: 11Cam14
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
+
 Package: com.michaelmelita1.11cam15-rootless
 Version: 0.0.17
 Architecture: iphoneos-arm64
@@ -160,20 +178,21 @@ Name: FxxkHapticTouch
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.fxxkhaptictouch/info.json
 
 Package: com.michaelmelita1.interactivesiri
-Version: 0.1
+Version: 0.3
 Architecture: iphoneos-arm64
 Maintainer: michaelmelita1
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.michaelmelita1.interactivesiri_0.1_iphoneos-arm64.deb
-Size: 3286
-MD5sum: f49f8808a9295e7d1117589928033784
-SHA1: 9b0b2ddd4029004eabc32a1889ff03722a1f34a5
-SHA256: af7f5bc348e61076c98d61fae5d73ad21b0dce3397b21b3478b803b1feb683fb
+Installed-Size: 184
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.michaelmelita1.interactivesiri_0.3_iphoneos-arm64.deb
+Size: 3912
+MD5sum: 1eb09cc54a15e59145bac29de07fd786
+SHA1: 48028484e542db479ea1f57f3e03c6240143d4ed
+SHA256: cea8caf8ed6be00f37a89e75b6e4073764c0abc668c6ec8017db9b16bc4aba6e
 Section: Tweaks
 Description: InteractiveSiri
 Author: michaelmelita1
 Name: InteractiveSiri
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.interactivesiri/info.json
 
 Package: com.michaelmelita1.iris12
 Version: 0.0.2
@@ -276,51 +295,33 @@ Description: Taptic Feedback when opening Control Centre
 Author: Michael Melita
 Name: TapticCentre
 
-Package: com.michaelmelita1.tapticcentre-rootless
-Version: 0.1.1
+Package: com.michaelmelita1.tapticcentre
+Version: 0.1.2
 Architecture: iphoneos-arm64
 Maintainer: Michael Melita
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.tapticcentre_0.1.1_iphoneos-arm64.deb
-Size: 2548
-MD5sum: c919c286323f04c8e80b79b85fba5f15
-SHA1: 530f80d6c6e06b4a52ba76db6a6a2bbd95f44af3
-SHA256: 0a048d88fb9aac8180e53531b82a7a2342d2be7fc86f24c2d5423e57cc9746ce
+Installed-Size: 184
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.michaelmelita1.tapticcentre_0.1.2_iphoneos-arm64.deb
+Size: 3060
+MD5sum: 4c505d8dc12a56101df2dd0309cbd1af
+SHA1: 8f5a91102ffcc38228774941e779aba0c00612c8
+SHA256: a3facd96b841046d63099a98ce4c7593b18aa444dc17f00bde28fa2690fb60f3
 Section: Tweaks
 Description: Taptic Feedback when opening Control Centre
 Author: Michael Melita
 Name: TapticCentre
 
 Package: com.michaelmelita1.widebydefault
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Michael Melita
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.widebydefault_0.0.2_iphoneos-arm.deb
-Size: 2450
-MD5sum: fcec5986812c1d417333e59e0437b261
-SHA1: f14629ab7d2bc114d17a7d427fa9e5d42d552864
-SHA256: 413de38c25487d8e643d620e0f7f592753d1ca0604f935c18fe79342fb4dfaeb
-Section: Tweaks
-Description: Default to the Wide selfie camera on 11Pro
-Author: LaVie and Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.widebydefault
-Name: WidebyDefault
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.widebydefault/info.json
-
-Package: com.michaelmelita1.widebydefault-rootless
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm64
 Maintainer: Michael Melita
 Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.widebydefault_0.0.2_iphoneos-arm64.deb
-Size: 2544
-MD5sum: 73b3cf5c8974f5d28493da5027af182a
-SHA1: 07a0688faef39259760c3633c6300f1e1cdc9ac4
-SHA256: 380f5c84e4f5d59774bf1850438477ee8498ba83ed2a12353b2cac7c157909dc
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.michaelmelita1.widebydefault_0.0.3_iphoneos-arm64.deb
+Size: 2326
+MD5sum: 754bead5020e8da9af40cb713275ef7c
+SHA1: 6b158e15c8dc348e1a17972a6d28878dc267eadd
+SHA256: dd9f5f7cdb8c3645344b5e76ffabf19b694893cca464ad5a61dd2677f2553ad7
 Section: Tweaks
 Description: Default to the Wide selfie camera on 11Pro
 Author: LaVie and Michael Melita
