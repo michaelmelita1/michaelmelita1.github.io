@@ -5,11 +5,11 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Interactive Siri allows you to do things on your phone while your talking to siri",
+                    "markdown": "Allows you to use an app while talking to Siri like on iPad",
                     "useSpacing": true
-                }
+                },
                 {
-                    "markdown": "iOS 15 & 16",
+                    "markdown": " Compatible with iPhone 7 - SE3 running iOS 15+, using pre-Apple Inteligence Siri",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -19,14 +19,14 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.2",
+                    "text": "0.0.3",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "09-08-2026",
+                    "text": "17-10-2026",
                     "class": "DepictionTableTextView",
-                    "title": "Last Updated"
+                    "title": "Released"
                 },
                 {
                     "text": "Free",
@@ -51,35 +51,35 @@
         },
         {
 			"tabname": "Changelog",
-			"views": [
+			"views": [	
 				{
-					"title": "0.2",
+					"title": "0.0.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fixed on iOS 15",
+					"markdown": "\t\n\u2022 Redesigned Touch passthough to show banners properly",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				},
+				},				
 				{
-					"title": "0.1",
+					"title": "0.0.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial Release",
+					"markdown": "\t\n\u2022 First Take on shrinking the siri window",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
-			],
+                ],
 			"class": "DepictionStackView"
 		}
     ],
-"minVersion": "0.1",
+    "minVersion": "0.1",
     "class": "DepictionTabView",
-    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.widebydefault/screenshots/Banner.png",
+    "headerImage": "https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.tapticcentre/Banner.png",
     "tintColor": "#0657bb"
 }
