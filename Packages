@@ -141,6 +141,23 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.det
 Name: DetectedText
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.detectedtext/info.json
 
+Package: com.michaelmelita1.exposurecontrol
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0), cy+model.iphone (= 11.2) | cy+model.iphone (= 11.4) | cy+model.iphone (= 11.6) | cy+model.iphone (= 11.8)
+Filename: ./debs/com.michaelmelita1.exposurecontrol_0.0.1_iphoneos-arm64.deb
+Size: 2260
+MD5sum: b8a47e27770af8fbf47b88466d72bfa7
+SHA1: 493a042fc7e17b0daf03024d1017c506c14ac6b1
+SHA256: 0145f2d749f5f445ef21307f075ca72420283538d80ee22243a9af8786258579
+Section: Tweaks
+Description: Exposure Control for iPhone XS
+Author: Michael Melita
+Name: ExposureControl
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.exposurecontrol/info.json
+
 Package: com.michaelmelita1.frontcammirror
 Version: 0.0.1
 Architecture: iphoneos-arm
