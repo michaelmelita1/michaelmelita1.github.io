@@ -145,13 +145,13 @@ Package: com.michaelmelita1.exposurecontrol
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: Michael Melita
-Installed-Size: 88
+Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 15.0), cy+model.iphone (= 11.2) | cy+model.iphone (= 11.4) | cy+model.iphone (= 11.6) | cy+model.iphone (= 11.8)
 Filename: ./debs/com.michaelmelita1.exposurecontrol_0.0.1_iphoneos-arm64.deb
-Size: 2260
-MD5sum: b8a47e27770af8fbf47b88466d72bfa7
-SHA1: 493a042fc7e17b0daf03024d1017c506c14ac6b1
-SHA256: 0145f2d749f5f445ef21307f075ca72420283538d80ee22243a9af8786258579
+Size: 2486
+MD5sum: 71a10b394fe300b0429b829a48242eb8
+SHA1: a1db686c0d16bb71e1601827c271dd8cb1fd3689
+SHA256: 421cf21643329e3086f5bbdba4c1cb65aba8e3612c05fc65e3d3998644fde2bf
 Section: Tweaks
 Description: Exposure Control for iPhone XS
 Author: Michael Melita
@@ -264,16 +264,16 @@ Name: Little16
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
 
 Package: com.michaelmelita1.little16
-Version: 0.0.8
+Version: 0.0.9
 Architecture: iphoneos-arm64
 Maintainer: michelmelita1
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.michaelmelita1.little16_0.0.8_iphoneos-arm64.deb
-Size: 6010
-MD5sum: 5bab4f924cb6f648d65f2903b2095102
-SHA1: f3aa36f729cdb2baecd7b332bb4ca9dcffbb241c
-SHA256: b533c433611ee832459124163edfdacaa1a7c5a96ac68f89fa58f8701a4c8364
+Filename: ./debs/com.michaelmelita1.little16_0.0.9_iphoneos-arm64.deb
+Size: 5944
+MD5sum: 6cee177c405c29c706e042bc072fccfa
+SHA1: 86cf2410e76871d0abc3c97805607fd8940a24a3
+SHA256: b2c6dcaaae1587c16bc797f6e99bf236700376aeb6b6895fccaee9606004dc8f
 Section: Tweaks
 Description: iPhone X gestures for iOS 16
 Author: michaelmelita1
