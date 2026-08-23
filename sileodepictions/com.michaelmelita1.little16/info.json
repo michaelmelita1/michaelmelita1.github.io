@@ -52,6 +52,17 @@
         {
 			"tabname": "Changelog",
 			"views": [
+					{
+					"title": "0.0.9",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fixed Arm64e slice on iOS 16",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},		
 								{
 					"title": "0.0.8",
 					"useBoldText": true,
