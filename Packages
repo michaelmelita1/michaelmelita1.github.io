@@ -264,6 +264,23 @@ Name: Little16
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
 
 Package: com.michaelmelita1.little16
+Version: 0.0.8
+Architecture: iphoneos-arm64
+Maintainer: michelmelita1
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.michaelmelita1.little16_0.0.8_iphoneos-arm64.deb
+Size: 6010
+MD5sum: 5bab4f924cb6f648d65f2903b2095102
+SHA1: f3aa36f729cdb2baecd7b332bb4ca9dcffbb241c
+SHA256: b533c433611ee832459124163edfdacaa1a7c5a96ac68f89fa58f8701a4c8364
+Section: Tweaks
+Description: iPhone X gestures for iOS 16
+Author: michaelmelita1
+Name: Little16
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.little16/info.json
+
+Package: com.michaelmelita1.little16
 Version: 0.0.9
 Architecture: iphoneos-arm64
 Maintainer: michelmelita1
@@ -295,6 +312,23 @@ Description: Replaces Blurs with Transparency Systemwide
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.lowgraphics
 Name: LowGraphics
+
+Package: com.michaelmelita1.nightshift32
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: michaelmelita1
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 9.3), firmware (<< 10.4)
+Filename: ./debs/com.michaelmelita1.nightshift32_1.0.0_iphoneos-arm.deb
+Size: 8014
+MD5sum: c90e42518a5835958eadee5c64635540
+SHA1: 3e990ade56b5bc4db6f271ea23ed3201417eb167
+SHA256: 9cea183c2496f4456a115daeabff38a7b2abad838c4e1f26c06b673338531e25
+Section: Tweaks
+Description: Native Night Shift for 32-bit devices on iOS 9.3 - 10.3.4
+Author: michaelmelita1
+Name: NightShift32
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.nightshift32/info.json
 
 Package: com.michaelmelita1.tapticcentre
 Version: 0.1.1
