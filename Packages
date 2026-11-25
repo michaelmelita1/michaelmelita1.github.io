@@ -198,13 +198,13 @@ Package: com.michaelmelita1.interactivesiri
 Version: 0.4.0
 Architecture: iphoneos-arm64
 Maintainer: michaelmelita1
-Installed-Size: 204
+Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.michaelmelita1.interactivesiri_0.4.0_iphoneos-arm64.deb
-Size: 11222
-MD5sum: 02959aa977a5f7533e2206bf1bfa8a0b
-SHA1: 1135c5d3ac61cd7e4d215b4b9f180a2a29d192a1
-SHA256: 042796f77ca6914d94d3f8f1666aec58bfdc0df85d7bd3158a620e35d739d470
+Size: 3690
+MD5sum: 0ad408ca1c00c183f195439a771b7060
+SHA1: b352e899e85269b6c491cc3cfd298d13ea4bb9c6
+SHA256: add442440e208bc86270bf8645c45004ec5d5ddce98d53ad347976bc8075b63f
 Section: Tweaks
 Description: InteractiveSiri
 Author: michaelmelita1
