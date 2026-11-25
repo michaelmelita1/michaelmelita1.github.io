@@ -195,16 +195,16 @@ Name: FxxkHapticTouch
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.fxxkhaptictouch/info.json
 
 Package: com.michaelmelita1.interactivesiri
-Version: 0.3
+Version: 0.4.0
 Architecture: iphoneos-arm64
 Maintainer: michaelmelita1
-Installed-Size: 184
+Installed-Size: 204
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.michaelmelita1.interactivesiri_0.3_iphoneos-arm64.deb
-Size: 3912
-MD5sum: 1eb09cc54a15e59145bac29de07fd786
-SHA1: 48028484e542db479ea1f57f3e03c6240143d4ed
-SHA256: cea8caf8ed6be00f37a89e75b6e4073764c0abc668c6ec8017db9b16bc4aba6e
+Filename: ./debs/com.michaelmelita1.interactivesiri_0.4.0_iphoneos-arm64.deb
+Size: 11222
+MD5sum: 02959aa977a5f7533e2206bf1bfa8a0b
+SHA1: 1135c5d3ac61cd7e4d215b4b9f180a2a29d192a1
+SHA256: 042796f77ca6914d94d3f8f1666aec58bfdc0df85d7bd3158a620e35d739d470
 Section: Tweaks
 Description: InteractiveSiri
 Author: michaelmelita1
